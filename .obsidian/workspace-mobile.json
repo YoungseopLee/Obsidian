@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "d04e1876de4b476c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5142150d5e0e1758",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee2623ee04f7049a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Daily Report/2024/2024-06-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a4136b8db7a4ea6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "82de2ebd0b68906b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "221b8739684e4213",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "848444eaf9b25fb1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "276273d8bbc3c8ea",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9c6beb26a69d4f4e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7ce9834581aee9e1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "5. Daily Report/2024/2024-06-03.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "04b67926f5f86c21",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "5. Daily Report/2024/2024-06-03.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "affd2973d36b8a1b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "5. Daily Report/2024/2024-06-03.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ee2623ee04f7049a",
+  "lastOpenFiles": [
+    "5. Daily Report/2024/2024-05-24.md",
+    "5. Daily Report/2024/2024-05-22.md",
+    "5. Daily Report/2024/2024-05-23.md",
+    "1. Project/코딩테스트",
+    "1. Project/개발자 취업 (~2024-09-01)/이력서.md",
+    "1. Project/개발자 취업 (~2024-09-01)",
+    "1. Project/사이드 프로젝트/project Yggdrasil_AI.md",
+    "1. Project/사이드 프로젝트",
+    "2. Area/dev/stack/spring/00. Java 기본 문법 (~2024-05-24).md",
+    "2. Area/dev/stack/spring/01. Spring Security & JWT.md",
+    "2. Area/dev/stack/spring/00. Spring 입문 (~2024-05-24).md",
+    "2. Area/dev/stack/spring/00. Java 문법 (~2024-05-24).md",
+    "3. Resource/학습법/파인만 테크닉.md",
+    "Untitled.md",
+    "0. hello world/README.md",
+    "3. Resource/도서/프로그래머의 뇌 - Felienne Hermans.md",
+    "3. Resource/학습법",
+    "0. hello world",
+    "3. Resource/Excalidraw",
+    "2. Area/dev/stack/spring/00. Spring Security & JWT Tutorial.md",
+    "README.md",
+    "1. Project/취직 (~2024-09-01)/00. spring 입문 (~2024-05-24).md"
+  ]
+}
