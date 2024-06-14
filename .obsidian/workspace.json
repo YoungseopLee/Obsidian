@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
+                "file": "5. Daily Report/2024/2024-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
+                "file": "5. Daily Report/2024/2024-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md"
+                "file": "5. Daily Report/2024/2024-06-14.md"
               }
             }
           }
@@ -153,11 +152,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "279baa6bd3a40d41",
+  "active": "e77b4f2a0d30b4d9",
   "lastOpenFiles": [
+    "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
     "5. Daily Report/2024/2024-06-14.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-13.md",
-    "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
     "1. Project/포트폴리오/Wallpaper Engine for mac.md",
     "README.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-12.md",
