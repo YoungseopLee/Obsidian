@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Book/2024/시대예보 - 송길영.md",
+                "file": "5. Daily Report/2024/2024-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/Book/2024/시대예보 - 송길영.md",
+                "file": "5. Daily Report/2024/2024-06-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/Book/2024/시대예보 - 송길영.md"
+                "file": "5. Daily Report/2024/2024-06-17.md"
               }
             }
           }
@@ -165,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "279baa6bd3a40d41",
+  "active": "7bc2c7cfabb52179",
   "lastOpenFiles": [
     "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
     "3. Resource/Book/2024/시대예보 - 송길영.md",
