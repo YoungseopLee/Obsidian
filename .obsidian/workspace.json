@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "279baa6bd3a40d41",
+            "id": "99c83297f2e212bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bc2c7cfabb52179",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "5. Daily Report/2024/2024-06-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "279baa6bd3a40d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/Book/시대예보 - 송길영.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-17.md",
+                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-17.md",
+                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-17.md"
+                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md"
               }
             }
           }
@@ -139,14 +164,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "279baa6bd3a40d41",
+  "active": "3be74d1c134d03e3",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-06-16.md",
+    "3. Resource/Book/시대예보 - 송길영.md",
     "5. Daily Report/2024/2024-06-17.md",
-    "5. Daily Report/2024/2024-06-15.md",
     "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
-    "5. Daily Report/2024/2024-06-14.md",
+    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-14.md",
+    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-16.md",
+    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-15.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-13.md",
+    "5. Daily Report/2024/2024-06-15 2.md",
+    "3. Resource/Book/완전한 연주.md",
+    "3. Resource/Book/지옥의 메커니컬 기타 트레이닝 1.md",
     "1. Project/포트폴리오/Wallpaper Engine for mac.md",
     "README.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-12.md",
@@ -155,7 +184,6 @@
     "3. Resource/Book/프로그래머의 뇌 - Felienne Hermans.md",
     "3. Resource/Book/공간이 만든 공간.md",
     "3. Resource/Book/문장의 비결.md",
-    "3. Resource/Book/시대예보 - 송길영.md",
     "3. Resource/etc...",
     "5. Daily Report/2024/8월",
     "5. Daily Report/2024/7월 프로젝트 정리, CS 기본 정리",
@@ -166,15 +194,12 @@
     "2. Area/Dev/JavaScript/DOMContentListener.md",
     "2. Area/Dev/JavaScript",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-11.md",
-    "3. Resource/Book/Untitled.md",
     "2. Area/Dev/Stack/css/tailwind 로 DropDown 구현하기.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-10.md",
     "2. Area/Dev/Stack/WEB/HTTP.md",
     "2. Area/Dev/Stack/Spring/00. Spring Basic (2024-05-24).md",
     "2. Area/Dev/Stack/WEB",
     "2. Area/Dev/Stack/css",
-    "2. Area/Dev/Stack/Untitled.md",
-    "5. Daily Report/2024/2024-06-09.md",
     "media",
     "templates",
     "Untitled.canvas"
