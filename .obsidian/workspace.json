@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bc2c7cfabb52179",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Daily Report/2024/2024-06-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "279baa6bd3a40d41",
             "type": "leaf",
             "state": {
@@ -38,6 +26,30 @@
               "type": "markdown",
               "state": {
                 "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "800e603e145f4bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/Book/2024/프로그래머의 뇌 - Felienne Hermans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b8ea4ebcaff3d73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/Book/2024/시대예보 - 송길영.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-18.md",
+                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-18.md",
+                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-18.md"
+                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md"
               }
             }
           }
@@ -165,19 +177,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "279baa6bd3a40d41",
+  "active": "a94bd73d6c4cb45c",
   "lastOpenFiles": [
-    "3. Resource/Book/2024/시대예보 - 송길영.md",
     "5. Daily Report/2024/2024-06-18.md",
-    "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
-    "5. Daily Report/2024/2024-06-17.md",
+    "3. Resource/Book/2024/시대예보 - 송길영.md",
     "3. Resource/Book/2024/프로그래머의 뇌 - Felienne Hermans.md",
+    "4. Archive/정보처리기사 (2024-06-18).md",
+    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-17.md",
+    "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
     "3. Resource/Book/2024/지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2024/완전한 연주.md",
     "3. Resource/Book/2024/물고기는 존재하지 않는다.md",
     "3. Resource/Book/2024/문장의 비결.md",
     "3. Resource/Book/2024/공간이 만든 공간.md",
-    "4. Archive/정보처리기사 (2024-06-18).md",
     "3. Resource/Book/2024/6월",
     "3. Resource/Book/2024",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-14.md",
