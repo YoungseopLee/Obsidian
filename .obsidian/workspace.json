@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-18.md",
+                "file": "3. Resource/Book/2024/프로그래머의 뇌 - Felienne Hermans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-18.md",
+                "file": "3. Resource/Book/2024/프로그래머의 뇌 - Felienne Hermans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-18.md"
+                "file": "3. Resource/Book/2024/프로그래머의 뇌 - Felienne Hermans.md"
               }
             }
           }
@@ -176,10 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "279baa6bd3a40d41",
+  "active": "800e603e145f4bf3",
   "lastOpenFiles": [
-    "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
     "5. Daily Report/2024/2024-06-18.md",
+    "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
     "3. Resource/Book/2024/시대예보 - 송길영.md",
     "3. Resource/Book/2024/프로그래머의 뇌 - Felienne Hermans.md",
     "4. Archive/정보처리기사 (2024-06-18).md",
