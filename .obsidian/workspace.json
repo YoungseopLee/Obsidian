@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Book/2024/시대예보 - 송길영.md",
+                "file": "5. Daily Report/2024/2024-06-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Book/2024/시대예보 - 송길영.md",
+                "file": "5. Daily Report/2024/2024-06-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/Book/2024/시대예보 - 송길영.md",
+                "file": "5. Daily Report/2024/2024-06-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/Book/2024/시대예보 - 송길영.md"
+                "file": "5. Daily Report/2024/2024-06-18.md"
               }
             }
           }
@@ -167,9 +167,10 @@
   },
   "active": "279baa6bd3a40d41",
   "lastOpenFiles": [
+    "3. Resource/Book/2024/시대예보 - 송길영.md",
+    "5. Daily Report/2024/2024-06-18.md",
     "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
     "5. Daily Report/2024/2024-06-17.md",
-    "3. Resource/Book/2024/시대예보 - 송길영.md",
     "3. Resource/Book/2024/프로그래머의 뇌 - Felienne Hermans.md",
     "3. Resource/Book/2024/지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2024/완전한 연주.md",
@@ -200,7 +201,6 @@
     "2. Area/Dev/JavaScript",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-11.md",
     "2. Area/Dev/Stack/css/tailwind 로 DropDown 구현하기.md",
-    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-10.md",
     "2. Area/Dev/Stack/WEB",
     "2. Area/Dev/Stack/css",
     "Untitled.canvas"
