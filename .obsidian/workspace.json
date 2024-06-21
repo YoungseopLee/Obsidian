@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-20.md",
+                "file": "5. Daily Report/2024/2024-06-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-20.md",
+                "file": "5. Daily Report/2024/2024-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-20.md",
+                "file": "5. Daily Report/2024/2024-06-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-20.md"
+                "file": "5. Daily Report/2024/2024-06-21.md"
               }
             }
           }
@@ -166,8 +166,9 @@
   },
   "active": "cd20954e15c15098",
   "lastOpenFiles": [
-    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-19.md",
     "5. Daily Report/2024/2024-06-20.md",
+    "5. Daily Report/2024/2024-06-21.md",
+    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-19.md",
     "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
     "1. Project/포트폴리오/Wallpaper Engine for mac.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-18.md",
@@ -198,7 +199,6 @@
     "5. Daily Report/2024/5월 아르바이트,/2024-05-22.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트",
     "5. Daily Report/2024/5월 아르바이트,",
-    "2. Area/Dev/JavaScript/DOMContentListener.md",
     "2. Area/Dev/JavaScript",
     "2. Area/Dev/Stack/WEB",
     "2. Area/Dev/Stack/css",
