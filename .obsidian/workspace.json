@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "5. Daily Report/2024/2024-06-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "5. Daily Report/2024/2024-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "5. Daily Report/2024/2024-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "5. Daily Report/2024/2024-06-27.md"
               }
             }
           }
@@ -142,8 +142,8 @@
   },
   "active": "78e437447a9b4e8b",
   "lastOpenFiles": [
-    "Untitled.md",
     "README.md",
+    "Untitled.md",
     "4. Archive/정보처리기사 (2024-06-18).md",
     "1. Project/개발자 취업 (2024-09-01)/profile.md",
     "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
