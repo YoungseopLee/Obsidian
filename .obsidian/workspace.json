@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-21.md",
+                "file": "5. Daily Report/2024/2024-06-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-21.md",
+                "file": "5. Daily Report/2024/2024-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-21.md",
+                "file": "5. Daily Report/2024/2024-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-21.md"
+                "file": "5. Daily Report/2024/2024-06-27.md"
               }
             }
           }
@@ -166,10 +166,13 @@
   },
   "active": "cd20954e15c15098",
   "lastOpenFiles": [
+    "5. Daily Report/2024/2024-06-24.md",
+    "5. Daily Report/2024/2024-06-27.md",
+    "Untitled.md",
+    "5. Daily Report/2024/2024-06-21.md",
     "3. Resource/Book/2024/시대예보 - 송길영.md",
     "5. Daily Report/2024/2024-06-20.md",
     "3. Resource/Book/2024/프로그래머의 뇌 - Felienne Hermans.md",
-    "5. Daily Report/2024/2024-06-21.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-19.md",
     "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
     "1. Project/포트폴리오/Wallpaper Engine for mac.md",
@@ -191,12 +194,9 @@
     "README.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-12.md",
     "2. Area/Dev/Algorithm/Stack.md",
-    "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
     "3. Resource/etc...",
     "5. Daily Report/2024/8월",
     "5. Daily Report/2024/7월 프로젝트 정리, CS 기본 정리",
-    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-01.md",
-    "5. Daily Report/2024/5월 아르바이트,/2024-05-22.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트",
     "5. Daily Report/2024/5월 아르바이트,",
     "2. Area/Dev/JavaScript",
