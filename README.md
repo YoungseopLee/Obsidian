@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
 
 본 문서는 PARA 를 기반으로 작성됩니다.
 PARA 는 행동 또는 목표 를 기준으로 정보를 관리하는 방법론을 의미합니다. 
