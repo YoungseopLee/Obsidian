@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e675aebe78d86541",
+        "id": "515705152eaeaee7",
         "type": "tabs",
         "children": [
           {
-            "id": "78e437447a9b4e8b",
+            "id": "2e63736c410cf188",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DailyReport",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -132,9 +131,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78e437447a9b4e8b",
+  "active": "2e63736c410cf188",
   "lastOpenFiles": [
     "5. Daily Report/2024/2024-06-28.md",
+    "3. Resource/Book/2024/프로그래머의 뇌.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-27.md",
     "3. Resource/Book/2024/시대예보.md",
     "3. Resource/Book/2024/물고기는 존재하지 않는다.md",
@@ -147,7 +147,6 @@
     "1. Project/포트폴리오/Wallpaper Engine for mac (2024-00-00).md",
     "3. Resource/Tech",
     "5. Daily Report/2024/9월",
-    "3. Resource/Book/2024/프로그래머의 뇌.md",
     "2. Area/Dev/JavaScript/DOMContentListener.md",
     "3. Resource/Book/2024/공간이 만든 공간.md",
     "5. Daily Report/2024/2024-06-24.md",
