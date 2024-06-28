@@ -11,12 +11,8 @@
             "id": "78e437447a9b4e8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Daily Report/2024/2024-06-28.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Daily Report/2024/2024-06-28.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -142,8 +134,11 @@
   },
   "active": "78e437447a9b4e8b",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-06-27.md",
     "5. Daily Report/2024/2024-06-28.md",
+    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-27.md",
+    "3. Resource/Book/2024/시대예보.md",
+    "3. Resource/Book/2024/물고기는 존재하지 않는다.md",
+    "3. Resource/Book/2024/cosmos.md",
     "README.md",
     "Untitled.md",
     "4. Archive/정보처리기사 (2024-06-18).md",
@@ -155,7 +150,6 @@
     "3. Resource/Book/2024/프로그래머의 뇌.md",
     "2. Area/Dev/JavaScript/DOMContentListener.md",
     "3. Resource/Book/2024/공간이 만든 공간.md",
-    "3. Resource/Book/2024/시대예보.md",
     "5. Daily Report/2024/2024-06-24.md",
     "5. Daily Report/2024/2024-06-21.md",
     "5. Daily Report/2024/2024-06-20.md",
@@ -164,14 +158,12 @@
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-17.md",
     "3. Resource/Book/2024/지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2024/완전한 연주.md",
-    "3. Resource/Book/2024/물고기는 존재하지 않는다.md",
     "3. Resource/Book/2024/문장의 비결.md",
     "3. Resource/Book/2024/6월",
     "3. Resource/Book/2024",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-14.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-16.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-15.md",
-    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-13.md",
     "3. Resource/etc...",
     "5. Daily Report/2024/8월",
     "5. Daily Report/2024/7월 프로젝트 정리, CS 기본 정리",
