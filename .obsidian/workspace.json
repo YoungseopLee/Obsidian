@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-01.md",
+                "file": "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-01.md",
+                "file": "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-01.md",
+                "file": "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-01.md"
+                "file": "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md"
               }
             }
           }
@@ -139,10 +139,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a103dbfc5cf30212",
+  "active": "3be74d1c134d03e3",
   "lastOpenFiles": [
-    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-28.md",
+    "3. Resource/Book/2024/프로그래머의 뇌.md",
+    "3. Resource/Book/2024/지옥의 메커니컬 기타 트레이닝 1.md",
+    "3. Resource/Book/2024/시대예보.md",
+    "3. Resource/Book/2024/완전한 연주.md",
+    "3. Resource/Book/2024/비트코인, 달러 그리고 지정학.md",
+    "3. Resource/Book/2024/공간이 만든 공간.md",
+    "3. Resource/Book/2024/Money Book.md",
+    "3. Resource/Book/2024/Cosmos.md",
+    "3. Resource/Book/2024/문장의 비결.md",
     "5. Daily Report/2024/2024-07-01.md",
+    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-28.md",
     "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
     "1. Project/포트폴리오/Wallpaper Engine for mac (2024-00-00).md",
     "1. Project/개발자 취업 (2024-09-01)/profile.md",
@@ -155,28 +164,19 @@
     "Pasted image 20240628142707.png",
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
     "Screenshot 2024-06-28 at 2.23.52 PM 1.png",
-    "3. Resource/Book/2024/시대예보.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-27.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-18.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-17.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-14.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-13.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-11.md",
-    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-10.md",
-    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-03.md",
-    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-01.md",
-    "templates/0000-00-00.md",
-    "3. Resource/Book/2024/프로그래머의 뇌.md",
-    "3. Resource/Book/2024/물고기는 존재하지 않는다.md",
-    "3. Resource/Book/2024/cosmos.md",
-    "Untitled.md",
     "3. Resource/Tech",
     "5. Daily Report/2024/9월",
     "3. Resource/Book/2024/6월",
     "3. Resource/Book/2024",
     "3. Resource/etc...",
     "5. Daily Report/2024/8월",
-    "5. Daily Report/2024/7월 프로젝트 정리, CS 기본 정리",
+    "5. Daily Report/2024/7월 리펙토링 및 마이그레이션, CS 기본 정리",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트",
     "5. Daily Report/2024/5월 아르바이트,",
     "2. Area/Dev/JavaScript",
