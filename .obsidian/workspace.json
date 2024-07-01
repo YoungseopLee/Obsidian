@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "861babe5ed7fb01a",
+        "id": "e3280cf7426c49c1",
         "type": "tabs",
         "children": [
           {
-            "id": "a103dbfc5cf30212",
+            "id": "358140c9799a0998",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
+                "file": "5. Daily Report/2024/2024-07-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
+                "file": "5. Daily Report/2024/2024-07-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
+                "file": "5. Daily Report/2024/2024-07-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md"
+                "file": "5. Daily Report/2024/2024-07-01.md"
               }
             }
           }
@@ -141,6 +141,7 @@
   },
   "active": "3be74d1c134d03e3",
   "lastOpenFiles": [
+    "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
     "3. Resource/Book/2024/프로그래머의 뇌.md",
     "3. Resource/Book/2024/지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2024/시대예보.md",
@@ -169,14 +170,13 @@
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-17.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-14.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-13.md",
-    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-11.md",
     "3. Resource/Tech",
     "5. Daily Report/2024/9월",
     "3. Resource/Book/2024/6월",
     "3. Resource/Book/2024",
     "3. Resource/etc...",
     "5. Daily Report/2024/8월",
-    "5. Daily Report/2024/7월 리펙토링 및 마이그레이션, CS 기본 정리",
+    "5. Daily Report/2024/7월 리펙토링 및 마이그레이션",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트",
     "5. Daily Report/2024/5월 아르바이트,",
     "2. Area/Dev/JavaScript",
