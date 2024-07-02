@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a370f9d51f869a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Daily Report/2024/2024-07-01.md",
+                "file": "5. Daily Report/2024/2024-07-02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-01.md",
+                "file": "5. Daily Report/2024/2024-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-01.md",
+                "file": "5. Daily Report/2024/2024-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-01.md"
+                "file": "5. Daily Report/2024/2024-07-02.md"
               }
             }
           }
@@ -153,8 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a370f9d51f869a7",
+  "active": "358140c9799a0998",
   "lastOpenFiles": [
+    "5. Daily Report/2024/2024-07-01.md",
+    "5. Daily Report/2024/2024-07-02.md",
     "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
     "3. Resource/Book/2024/프로그래머의 뇌.md",
     "3. Resource/Book/2024/지옥의 메커니컬 기타 트레이닝 1.md",
@@ -165,7 +154,6 @@
     "3. Resource/Book/2024/Money Book.md",
     "3. Resource/Book/2024/Cosmos.md",
     "3. Resource/Book/2024/문장의 비결.md",
-    "5. Daily Report/2024/2024-07-01.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-28.md",
     "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
     "1. Project/포트폴리오/Wallpaper Engine for mac (2024-00-00).md",
@@ -183,7 +171,6 @@
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-18.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-17.md",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-14.md",
-    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트/2024-06-13.md",
     "3. Resource/Tech",
     "5. Daily Report/2024/9월",
     "3. Resource/Book/2024/6월",
