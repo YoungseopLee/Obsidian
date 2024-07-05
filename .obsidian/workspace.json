@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-05.md",
+                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-05.md",
+                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-05.md",
+                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-05.md"
+                "file": "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md"
               }
             }
           }
@@ -142,8 +142,8 @@
   },
   "active": "d1b78630f6c3a022",
   "lastOpenFiles": [
-    "templates/0000-00-00.md",
     "5. Daily Report/2024/2024-07-05.md",
+    "templates/0000-00-00.md",
     "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-04.md",
     "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-02.md",
     "5. Daily Report/2024/2024-07-03.md",
