@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81aa8a3f46871494",
+        "id": "8f59a7173712047f",
         "type": "tabs",
         "children": [
           {
-            "id": "d1b78630f6c3a022",
+            "id": "744d8145a92dd2aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,10 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1b78630f6c3a022",
+  "active": "744d8145a92dd2aa",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-07-11.md",
     "5. Daily Report/2024/2024-07-12.md",
+    "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-11.md",
     "3. Resource/Book/2024/머니북.md",
     "3. Resource/Book/2024/코스모스.md",
     "3. Resource/Book/2024/비트코인 그리고 달러의 지정학.md",
