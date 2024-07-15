@@ -8,9 +8,3 @@
 	* 다양한 애플 생태계 개발을 지원한다.
 	* xcode -> playground -> blank 템플릿 지정
 	* LiveView 를 지원하기에 따로 compile, build 필요가 없다
-	```
-import SwiftUI
-import PlaygroundSupport
- ```
-
-
