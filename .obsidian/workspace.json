@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/JavaScript/DOMContentListener.md",
+                "file": "5. Daily Report/2024/2024-07-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Dev/JavaScript/DOMContentListener.md",
+                "file": "5. Daily Report/2024/2024-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Dev/JavaScript/DOMContentListener.md",
+                "file": "5. Daily Report/2024/2024-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Dev/JavaScript/DOMContentListener.md"
+                "file": "5. Daily Report/2024/2024-07-15.md"
               }
             }
           }
@@ -142,6 +142,13 @@
   },
   "active": "744d8145a92dd2aa",
   "lastOpenFiles": [
+    "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
+    "1. Project/포트폴리오/Wallpaper Engine for mac (2024-00-00).md",
+    "2. Area/Dev/Stack/Spring/00. Spring Basic (2024-05-24).md",
+    "2. Area/Dev/Stack/Spring/00. Java Basic (2024-05-24).md",
+    "2. Area/Dev/Stack/Spring/01. Spring Security & JWT.md",
+    "1. Project/개발자 취업 (2024-09-01)/profile.md",
+    "2. Area/Dev/JavaScript/DOMContentListener.md",
     "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
     "3. Resource/Book/2024/히사이시조의 음악일기.md",
     "3. Resource/Book/2024/프로그래머의 뇌.md",
@@ -161,13 +168,6 @@
     "3. Resource/Book/2024/더 시스템.md",
     "3. Resource/Book/2024/그릿.md",
     "3. Resource/Book/2024/공간이 만든 공간.md",
-    "5. Daily Report/2024/2024-07-15.md",
-    "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-14.md",
-    "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-12.md",
-    "templates/0000-00-00.md",
-    "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-11.md",
-    "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-10.md",
-    "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-09.md",
     "Pasted image 20240628142707.png",
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
     "Screenshot 2024-06-28 at 2.23.52 PM 1.png",
