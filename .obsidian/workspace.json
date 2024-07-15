@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Book/2024/창조적 행위.md",
+                "file": "2. Area/Dev/JavaScript/DOMContentListener.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Book/2024/창조적 행위.md",
+                "file": "2. Area/Dev/JavaScript/DOMContentListener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/Book/2024/창조적 행위.md",
+                "file": "2. Area/Dev/JavaScript/DOMContentListener.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/Book/2024/창조적 행위.md"
+                "file": "2. Area/Dev/JavaScript/DOMContentListener.md"
               }
             }
           }
@@ -141,6 +142,10 @@
   },
   "active": "744d8145a92dd2aa",
   "lastOpenFiles": [
+    "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
+    "3. Resource/Book/2024/히사이시조의 음악일기.md",
+    "3. Resource/Book/2024/프로그래머의 뇌.md",
+    "3. Resource/Book/2024/콘택트.md",
     "3. Resource/Book/2024/코스모스.md",
     "3. Resource/Book/2024/창조적 행위.md",
     "3. Resource/Book/2024/직업으로서의 소설가.md",
@@ -161,12 +166,8 @@
     "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-12.md",
     "templates/0000-00-00.md",
     "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-11.md",
-    "3. Resource/Book/2024/히사이시조의 음악일기.md",
-    "3. Resource/Book/2024/프로그래머의 뇌.md",
-    "3. Resource/Book/2024/콘택트.md",
     "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-10.md",
     "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-09.md",
-    "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-05.md",
     "Pasted image 20240628142707.png",
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
     "Screenshot 2024-06-28 at 2.23.52 PM 1.png",
