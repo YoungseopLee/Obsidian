@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/Stack/Swift/Swift Basic.md",
+                "file": "5. Daily Report/2024/2024-07-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Dev/Stack/Swift/Swift Basic.md",
+                "file": "5. Daily Report/2024/2024-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Dev/Stack/Swift/Swift Basic.md",
+                "file": "5. Daily Report/2024/2024-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Dev/Stack/Swift/Swift Basic.md"
+                "file": "5. Daily Report/2024/2024-07-17.md"
               }
             }
           }
@@ -143,8 +143,9 @@
   },
   "active": "744d8145a92dd2aa",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-07-16.md",
     "2. Area/Dev/Stack/Swift/Swift Basic.md",
+    "5. Daily Report/2024/2024-07-17.md",
+    "5. Daily Report/2024/2024-07-16.md",
     "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-15.md",
     "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
     "1. Project/포트폴리오/Wallpaper Engine for mac (2024-00-00).md",
@@ -168,7 +169,6 @@
     "3. Resource/Book/2024/비트코인 그리고 달러의 지정학.md",
     "3. Resource/Book/2024/물고기는 존재하지 않는다.md",
     "3. Resource/Book/2024/문장의 비결.md",
-    "3. Resource/Book/2024/머니북.md",
     "Pasted image 20240628142707.png",
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
     "Screenshot 2024-06-28 at 2.23.52 PM 1.png",
