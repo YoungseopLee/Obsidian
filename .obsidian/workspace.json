@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/1-1 resume (2024-09-01)/profile.md",
+                "file": "1. Project/resume (2024-09-01)/yggdrasil_ai (2024-02-19), (2024-06-).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/1-1 resume (2024-09-01)/profile.md",
+                "file": "1. Project/resume (2024-09-01)/yggdrasil_ai (2024-02-19), (2024-06-).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/1-1 resume (2024-09-01)/profile.md",
+                "file": "1. Project/resume (2024-09-01)/yggdrasil_ai (2024-02-19), (2024-06-).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/1-1 resume (2024-09-01)/profile.md"
+                "file": "1. Project/resume (2024-09-01)/yggdrasil_ai (2024-02-19), (2024-06-).md"
               }
             }
           }
@@ -141,9 +142,14 @@
   },
   "active": "323798acb405def5",
   "lastOpenFiles": [
-    "2. Area/Dev/toy 🤖/wallpaper engine for mac (2024-00-00).md",
-    "1. Project/1-2 project/yggdrasil_ai (2024-02-19), (2024-06-).md",
+    "1. Project/resume (2024-09-01)/profile (2).md",
+    "3. Resource/Book/2024/물고기는 존재하지 않는다.md",
+    "3. Resource/Book/2024/비트코인 그리고 달러의 지정학.md",
+    "3. Resource/Book/2024/문장의 비결.md",
     "5. Daily Report/2024/2024-07-19.md",
+    "2. Area/Dev/Stack 📚/computer science/http.md",
+    "1. Project/resume (2024-09-01)/yggdrasil_ai (2024-02-19), (2024-06-).md",
+    "2. Area/Dev/toy 🤖/wallpaper engine for mac (2024-00-00).md",
     "3. Resource/Book/2024/살고싶다면 웨이트.md",
     "3. Resource/Book/2024/히사이시조의 음악일기.md",
     "README.md",
@@ -151,25 +157,20 @@
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-18.md",
     "2. Area/Dev/toy 🤖/personal blog.md",
     "2. Area/Dev/toy 🤖/helloworld.md",
-    "2. Area/Dev/Stack 📚/CS/HTTP.md",
     "2. Area/Dev/toy 🤖",
-    "2. Area/Dev/Stack 📚/Framework/Spring/01. Spring Security & JWT.md",
-    "2. Area/Dev/Stack 📚/Framework/Spring/00. Spring Basic (2024-05-24).md",
+    "2. Area/Dev/Stack 📚/framework/spring/spring security & jwt.md",
+    "2. Area/Dev/Stack 📚/framework/spring/spring basic (2024-05-24).md",
     "2. Area/Dev/Stack/Framework/Spring/00. Java Basic (2024-05-24).md",
-    "2. Area/Dev/Stack 📚/Framework",
-    "2. Area/Dev/Stack 📚/Language",
+    "2. Area/Dev/Stack 📚/framework",
+    "2. Area/Dev/Stack 📚/language",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-17.md",
-    "2. Area/Dev/Stack 📚/Language/Swift/Swift Basic.md",
+    "2. Area/Dev/Stack 📚/language/swift/Swift Basic.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-16.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-15.md",
-    "1. Project/1-1 resume (2024-09-01)/profile.md",
-    "2. Area/Dev/Stack 📚/Language/JavaScript/DOMContentListener.md",
+    "2. Area/Dev/Stack 📚/language/js/DOMContentListener.md",
     "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
     "3. Resource/Book/2024/프로그래머의 뇌.md",
     "3. Resource/Book/2024/콘택트.md",
-    "3. Resource/Book/2024/코스모스.md",
-    "3. Resource/Book/2024/창조적 행위.md",
-    "3. Resource/Book/2024/직업으로서의 소설가.md",
     "Pasted image 20240628142707.png",
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
     "Screenshot 2024-06-28 at 2.23.52 PM 1.png",
