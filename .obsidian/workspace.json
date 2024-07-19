@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f254c20247a9821",
+        "id": "44a8629f5a1989e6",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1df5b756ec3809",
+            "id": "323798acb405def5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/Stack/Framework/Spring/01. Spring Security & JWT.md",
+                "file": "1. Project/1-1 resume (2024-09-01)/profile.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Dev/Stack/Framework/Spring/01. Spring Security & JWT.md",
+                "file": "1. Project/1-1 resume (2024-09-01)/profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Dev/Stack/Framework/Spring/01. Spring Security & JWT.md",
+                "file": "1. Project/1-1 resume (2024-09-01)/profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Dev/Stack/Framework/Spring/01. Spring Security & JWT.md"
+                "file": "1. Project/1-1 resume (2024-09-01)/profile.md"
               }
             }
           }
@@ -139,46 +139,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d1df5b756ec3809",
+  "active": "323798acb405def5",
   "lastOpenFiles": [
-    "2. Area/Dev/Stack/Framework/Spring/00. Spring Basic (2024-05-24).md",
-    "2. Area/Dev/Stack/Framework/Spring/01. Spring Security & JWT.md",
-    "1. Project/1-2 project/helloworld.md",
-    "2. Area/Dev/Stack/Framework/Spring/00. Java Basic (2024-05-24).md",
-    "2. Area/Dev/Stack/Framework",
-    "2. Area/Dev/Stack/Language",
+    "2. Area/Dev/toy 🤖/wallpaper engine for mac (2024-00-00).md",
     "1. Project/1-2 project/yggdrasil_ai (2024-02-19), (2024-06-).md",
-    "1. Project/1-2 project/personal blog.md",
-    "1. Project/1-2 project/wallpaper engine for mac (2024-00-00).md",
     "5. Daily Report/2024/2024-07-19.md",
-    "5. Daily Report/2024/2024-07-18.md",
-    "5. Daily Report/2024/2024-07-17.md",
-    "2. Area/Dev/Stack/Language/Swift/Swift Basic.md",
-    "5. Daily Report/2024/2024-07-16.md",
-    "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-15.md",
-    "1. Project/1-1 resume (2024-09-01)/profile.md",
-    "2. Area/Dev/Stack/Language/JavaScript/DOMContentListener.md",
-    "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
+    "3. Resource/Book/2024/살고싶다면 웨이트.md",
     "3. Resource/Book/2024/히사이시조의 음악일기.md",
+    "README.md",
+    "templates/0000-00-00.md",
+    "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-18.md",
+    "2. Area/Dev/toy 🤖/personal blog.md",
+    "2. Area/Dev/toy 🤖/helloworld.md",
+    "2. Area/Dev/Stack 📚/CS/HTTP.md",
+    "2. Area/Dev/toy 🤖",
+    "2. Area/Dev/Stack 📚/Framework/Spring/01. Spring Security & JWT.md",
+    "2. Area/Dev/Stack 📚/Framework/Spring/00. Spring Basic (2024-05-24).md",
+    "2. Area/Dev/Stack/Framework/Spring/00. Java Basic (2024-05-24).md",
+    "2. Area/Dev/Stack 📚/Framework",
+    "2. Area/Dev/Stack 📚/Language",
+    "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-17.md",
+    "2. Area/Dev/Stack 📚/Language/Swift/Swift Basic.md",
+    "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-16.md",
+    "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-15.md",
+    "1. Project/1-1 resume (2024-09-01)/profile.md",
+    "2. Area/Dev/Stack 📚/Language/JavaScript/DOMContentListener.md",
+    "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
     "3. Resource/Book/2024/프로그래머의 뇌.md",
     "3. Resource/Book/2024/콘택트.md",
     "3. Resource/Book/2024/코스모스.md",
     "3. Resource/Book/2024/창조적 행위.md",
     "3. Resource/Book/2024/직업으로서의 소설가.md",
-    "3. Resource/Book/2024/지옥의 메커니컬 기타 트레이닝 1.md",
-    "3. Resource/Book/2024/완전한 연주.md",
-    "3. Resource/Book/2024/예술하는 습관.md",
     "Pasted image 20240628142707.png",
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
     "Screenshot 2024-06-28 at 2.23.52 PM 1.png",
     "3. Resource/Tech",
-    "5. Daily Report/2024/9월",
+    "5. Daily Report/2024/9월 구직, 이력서첨삭",
     "3. Resource/Book/2024/6월",
     "3. Resource/Book/2024",
     "3. Resource/etc...",
-    "5. Daily Report/2024/8월",
-    "5. Daily Report/2024/7월 리펙토링 및 마이그레이션",
-    "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트",
+    "5. Daily Report/2024/8월 리펙토링, 마이그레이션",
+    "5. Daily Report/2024/7월 개념정리, 코딩테스트",
     "Untitled.canvas"
   ]
 }
