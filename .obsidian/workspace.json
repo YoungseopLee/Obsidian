@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "02f4d658c32e90df",
+        "id": "5f254c20247a9821",
         "type": "tabs",
         "children": [
           {
-            "id": "07e1c83ea156c4ab",
+            "id": "3d1df5b756ec3809",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Daily Report/2024/2024-07-18.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Daily Report/2024/2024-07-18.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -140,7 +131,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07e1c83ea156c4ab",
+  "active": "3d1df5b756ec3809",
   "lastOpenFiles": [
     "5. Daily Report/2024/2024-07-18.md",
     "5. Daily Report/2024/2024-07-17.md",
