@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/interview.md",
+                "file": "2. Area/Dev/toy 🤖/helloworld (spring).md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/interview.md",
+                "file": "2. Area/Dev/toy 🤖/helloworld (spring).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/interview.md",
+                "file": "2. Area/Dev/toy 🤖/helloworld (spring).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/interview.md"
+                "file": "2. Area/Dev/toy 🤖/helloworld (spring).md"
               }
             }
           }
@@ -142,26 +142,27 @@
   },
   "active": "25f9636750e9f472",
   "lastOpenFiles": [
-    "2. Area/Dev/toy 🤖/helloworld (spring).md",
-    "1. Project/interview.md",
     "2. Area/Dev/toy 🤖/personal blog.md",
+    "2. Area/Dev/toy 🤖/helloworld (spring).md",
+    "2. Area/Dev/toy 🤖/wallpaper engine for mac (2024-00-00).md",
+    "2. Area/Dev/Stack 📚/language/js/DOMContentListener.md",
+    "2. Area/Dev/Stack 📚/framework/spring/spring security & jwt.md",
+    "2. Area/Dev/Stack 📚/framework/spring/spring basic.md",
+    "1. Project/interview.md",
+    "1. Project/portfolio - yggdrasil_ai.md",
     "5. Daily Report/2024/2024-07-19.md",
-    "1. Project/yggdrasil_ai.md",
     "1. Project/resume (2024-09-01)/youngseoplee.md",
     "1. Project/resume (2024-09-01)/01 yggdrasil_ai (2024-02-19), (2024-06-).md",
     "3. Resource/Book/2024/물고기는 존재하지 않는다.md",
     "3. Resource/Book/2024/비트코인 그리고 달러의 지정학.md",
     "3. Resource/Book/2024/문장의 비결.md",
     "2. Area/Dev/Stack 📚/computer science/http.md",
-    "2. Area/Dev/toy 🤖/wallpaper engine for mac (2024-00-00).md",
     "3. Resource/Book/2024/살고싶다면 웨이트.md",
     "3. Resource/Book/2024/히사이시조의 음악일기.md",
     "README.md",
     "templates/0000-00-00.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-18.md",
     "2. Area/Dev/toy 🤖",
-    "2. Area/Dev/Stack 📚/framework/spring/spring security & jwt.md",
-    "2. Area/Dev/Stack 📚/framework/spring/spring basic (2024-05-24).md",
     "2. Area/Dev/Stack/Framework/Spring/00. Java Basic (2024-05-24).md",
     "2. Area/Dev/Stack 📚/framework",
     "2. Area/Dev/Stack 📚/language",
@@ -169,7 +170,6 @@
     "2. Area/Dev/Stack 📚/language/swift/Swift Basic.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-16.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-15.md",
-    "2. Area/Dev/Stack 📚/language/js/DOMContentListener.md",
     "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
     "Pasted image 20240628142707.png",
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
