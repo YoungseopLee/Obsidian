@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-19.md",
+                "file": "2. Area/Dev/Stack/Framework/Spring/01. Spring Security & JWT.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-19.md",
+                "file": "2. Area/Dev/Stack/Framework/Spring/01. Spring Security & JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-19.md",
+                "file": "2. Area/Dev/Stack/Framework/Spring/01. Spring Security & JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-19.md"
+                "file": "2. Area/Dev/Stack/Framework/Spring/01. Spring Security & JWT.md"
               }
             }
           }
@@ -141,19 +141,23 @@
   },
   "active": "3d1df5b756ec3809",
   "lastOpenFiles": [
+    "2. Area/Dev/Stack/Framework/Spring/00. Spring Basic (2024-05-24).md",
+    "2. Area/Dev/Stack/Framework/Spring/01. Spring Security & JWT.md",
+    "1. Project/1-2 project/helloworld.md",
+    "2. Area/Dev/Stack/Framework/Spring/00. Java Basic (2024-05-24).md",
+    "2. Area/Dev/Stack/Framework",
+    "2. Area/Dev/Stack/Language",
+    "1. Project/1-2 project/yggdrasil_ai (2024-02-19), (2024-06-).md",
+    "1. Project/1-2 project/personal blog.md",
+    "1. Project/1-2 project/wallpaper engine for mac (2024-00-00).md",
     "5. Daily Report/2024/2024-07-19.md",
     "5. Daily Report/2024/2024-07-18.md",
     "5. Daily Report/2024/2024-07-17.md",
-    "2. Area/Dev/Stack/Swift/Swift Basic.md",
+    "2. Area/Dev/Stack/Language/Swift/Swift Basic.md",
     "5. Daily Report/2024/2024-07-16.md",
     "5. Daily Report/2024/7월 리펙토링 및 마이그레이션/2024-07-15.md",
-    "1. Project/포트폴리오/Yggdrasil_AI (2024-02-19), (2024-06-).md",
-    "1. Project/포트폴리오/Wallpaper Engine for mac (2024-00-00).md",
-    "2. Area/Dev/Stack/Spring/00. Spring Basic (2024-05-24).md",
-    "2. Area/Dev/Stack/Spring/00. Java Basic (2024-05-24).md",
-    "2. Area/Dev/Stack/Spring/01. Spring Security & JWT.md",
-    "1. Project/개발자 취업 (2024-09-01)/profile.md",
-    "2. Area/Dev/JavaScript/DOMContentListener.md",
+    "1. Project/1-1 resume (2024-09-01)/profile.md",
+    "2. Area/Dev/Stack/Language/JavaScript/DOMContentListener.md",
     "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
     "3. Resource/Book/2024/히사이시조의 음악일기.md",
     "3. Resource/Book/2024/프로그래머의 뇌.md",
@@ -164,9 +168,6 @@
     "3. Resource/Book/2024/지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2024/완전한 연주.md",
     "3. Resource/Book/2024/예술하는 습관.md",
-    "3. Resource/Book/2024/시대예보.md",
-    "3. Resource/Book/2024/살고싶다면 웨이트.md",
-    "3. Resource/Book/2024/비트코인 그리고 달러의 지정학.md",
     "Pasted image 20240628142707.png",
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
     "Screenshot 2024-06-28 at 2.23.52 PM 1.png",
@@ -178,8 +179,6 @@
     "5. Daily Report/2024/8월",
     "5. Daily Report/2024/7월 리펙토링 및 마이그레이션",
     "5. Daily Report/2024/6월 정처기 완, 코딩인터뷰 준비, Spring 프로젝트",
-    "5. Daily Report/2024/5월 아르바이트,",
-    "2. Area/Dev/JavaScript",
     "Untitled.canvas"
   ]
 }
