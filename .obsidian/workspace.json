@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/helloworld (spring).md",
+                "file": "2. Area/Dev/toy 🤖/helloworld (java-spring).md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/helloworld (spring).md",
+                "file": "2. Area/Dev/toy 🤖/helloworld (java-spring).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/helloworld (spring).md",
+                "file": "2. Area/Dev/toy 🤖/helloworld (java-spring).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/helloworld (spring).md"
+                "file": "2. Area/Dev/toy 🤖/helloworld (java-spring).md"
               }
             }
           }
@@ -152,10 +152,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25f9636750e9f472",
+  "active": "3be74d1c134d03e3",
   "lastOpenFiles": [
+    "2. Area/Dev/toy 🤖/helloworld (swift).md",
+    "2. Area/Dev/toy 🤖/helloworld (swift-ios).md",
+    "2. Area/Dev/toy 🤖/helloworld (java-spring).md",
     "5. Daily Report/2024/2024-07-22.md",
-    "2. Area/Dev/toy 🤖/helloworld (spring).md",
     "templates/0000-00-00.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-19.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-21.md",
@@ -181,8 +183,6 @@
     "2. Area/Dev/Stack 📚/framework",
     "2. Area/Dev/Stack 📚/language",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-17.md",
-    "2. Area/Dev/Stack 📚/language/swift/Swift Basic.md",
-    "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-16.md",
     "Pasted image 20240628142707.png",
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
     "Screenshot 2024-06-28 at 2.23.52 PM 1.png",
