@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-22.md",
+                "file": "2. Area/Dev/toy 🤖/helloworld (spring).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-22.md",
+                "file": "2. Area/Dev/toy 🤖/helloworld (spring).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-22.md"
+                "file": "2. Area/Dev/toy 🤖/helloworld (spring).md"
               }
             }
           }
@@ -153,10 +152,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b922a0f00135aefb",
+  "active": "25f9636750e9f472",
   "lastOpenFiles": [
-    "2. Area/Dev/toy 🤖/helloworld (spring).md",
     "5. Daily Report/2024/2024-07-22.md",
+    "2. Area/Dev/toy 🤖/helloworld (spring).md",
     "templates/0000-00-00.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-19.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-21.md",
