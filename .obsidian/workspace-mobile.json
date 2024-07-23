@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-06-03.md",
+                "file": "5. Daily Report/2024/2024-07-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5. Daily Report/2024/2024-06-03.md",
+            "file": "5. Daily Report/2024/2024-07-22.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "5. Daily Report/2024/2024-06-03.md",
+            "file": "5. Daily Report/2024/2024-07-22.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "5. Daily Report/2024/2024-06-03.md"
+            "file": "5. Daily Report/2024/2024-07-22.md"
           }
         }
       }
@@ -123,6 +123,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
