@@ -20,10 +20,13 @@
 	orElseThrow() 같은 예외처리를 해주어야 한다.
 	
 	 service 와 repository 에 대한 단위테스트를 진행해보았다.
-2024-07-23
-	. 
 2024-07-24
-	. 
+	코드를 다시 들여다보니 집중해서 읽을 수 없음. 이해가 안됨. 다시 프로젝트 생성 
+	먼저 crud 구현을 습관화 하기
+	설계 순서 
+		build.gradle, application.properties 
+		-> db(entity) -> repository -> service -> controller
+		-> view page -> test 
 
 github token
 	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
