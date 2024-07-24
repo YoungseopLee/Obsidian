@@ -24,9 +24,10 @@
 	코드를 다시 들여다보니 집중해서 읽을 수 없음. 이해가 안됨. 다시 프로젝트 생성 
 	먼저 crud 구현을 습관화 하기
 	설계 순서 
-		build.gradle, application.properties 
-		-> db(entity) -> repository -> service -> controller
-		-> view page -> test 
+		~~build.gradle, application.properties~~ 
+		~~baseEntity, GuestbookEntity~~
+		.
+		
 
 github token
 	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
