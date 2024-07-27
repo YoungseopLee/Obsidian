@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-26.md",
+                "file": "5. Daily Report/2024/2024-07-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-26.md",
+                "file": "5. Daily Report/2024/2024-07-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-26.md",
+                "file": "5. Daily Report/2024/2024-07-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-26.md"
+                "file": "5. Daily Report/2024/2024-07-27.md"
               }
             }
           }
@@ -142,8 +141,9 @@
   },
   "active": "25f9636750e9f472",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-07-25.md",
     "5. Daily Report/2024/2024-07-26.md",
+    "5. Daily Report/2024/2024-07-27.md",
+    "5. Daily Report/2024/2024-07-25.md",
     "3. Resource/Book/2024/지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2024/시대예보.md",
     "3. Resource/Book/2024/공간이 만든 공간.md",
@@ -167,7 +167,6 @@
     "2. Area/Dev/Stack 📚/framework/spring/spring security & jwt.md",
     "2. Area/Dev/Stack 📚/framework/spring/spring basic.md",
     "1. Project/interview.md",
-    "1. Project/portfolio - yggdrasil_ai.md",
     "2. Area/Dev/toy 🤖",
     "2. Area/Dev/Stack 📚/framework",
     "2. Area/Dev/Stack 📚/language",
