@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Book/2024/Untitled.md",
+                "file": "3. Resource/Book/2024/프로그래머의 뇌.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Book/2024/Untitled.md",
+                "file": "3. Resource/Book/2024/프로그래머의 뇌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/Book/2024/Untitled.md",
+                "file": "3. Resource/Book/2024/프로그래머의 뇌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/Book/2024/Untitled.md"
+                "file": "3. Resource/Book/2024/프로그래머의 뇌.md"
               }
             }
           }
@@ -141,32 +142,32 @@
   },
   "active": "25f9636750e9f472",
   "lastOpenFiles": [
-    "3. Resource/Book/2024/프로그래머의 뇌.md",
-    "3. Resource/Book/2024/Untitled.md",
-    "3. Resource/Book/2024/시대예보.md",
-    "3. Resource/Book/2024/살고싶다면 웨이트.md",
-    "3. Resource/Book/2024/비트코인 그리고 달러의 지정학.md",
-    "5. Daily Report/2024/2024-07-29.md",
-    "5. Daily Report/2024/2024-07-27.md",
-    "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-26.md",
-    "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-25.md",
-    "3. Resource/Book/2024/지옥의 메커니컬 기타 트레이닝 1.md",
-    "3. Resource/Book/2024/공간이 만든 공간.md",
-    "3. Resource/Book/2024/Object.md",
-    "3. Resource/Book/2024/헤드 퍼스트 디자인패턴.md",
-    "3. Resource/Book/2024/객체지향의 사실과 오해.md",
+    "3. Resource/Book/2024/악기연습하기 싫을 때 읽는 책.md",
+    "3. Resource/Book/2024/예술하는 습관.md",
+    "3. Resource/Book/2024/오타쿠의 욕망을 읽다.md",
+    "3. Resource/Book/2024/완전한 연주.md",
+    "3. Resource/Book/2024/상관없는 거 아닌가?.md",
+    "3. Resource/Book/2024/그래서 우리는 음악을 듣는다.md",
     "3. Resource/Book/2024/Effectice Java.md",
-    "2. Area/Dev/toy 🤖/helloworld (java-spring).md",
-    "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-24.md",
-    "5. Daily Report/2024/2024-07-22.md",
-    "5. Daily Report/2024/2024-07-23.md",
-    "2. Area/Dev/toy 🤖/helloworld (swift-ios).md",
-    "2. Area/Dev/toy 🤖/helloworld (swift).md",
-    "templates/0000-00-00.md",
-    "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-19.md",
-    "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-21.md",
-    "2. Area/Dev/toy 🤖/personal blog.md",
-    "2. Area/Dev/toy 🤖/wallpaper engine for mac (2024-00-00).md",
+    "3. Resource/Book/2024/히사이시조의 음악일기.md",
+    "3. Resource/Book/2024/헤드 퍼스트 디자인패턴.md",
+    "3. Resource/Book/2024/프로그래머의 뇌.md",
+    "3. Resource/Book/2024/콘택트.md",
+    "3. Resource/Book/2024/코스모스.md",
+    "3. Resource/Book/2024/창조적 행위.md",
+    "3. Resource/Book/2024/직업으로서의 소설가.md",
+    "3. Resource/Book/2024/지옥의 메커니컬 기타 트레이닝 1.md",
+    "3. Resource/Book/2024/시대예보.md",
+    "3. Resource/Book/2024/비트코인 그리고 달러의 지정학.md",
+    "3. Resource/Book/2024/살고싶다면 웨이트.md",
+    "3. Resource/Book/2024/물고기는 존재하지 않는다.md",
+    "3. Resource/Book/2024/문장의 비결.md",
+    "3. Resource/Book/2024/머니북.md",
+    "3. Resource/Book/2024/더 시스템.md",
+    "3. Resource/Book/2024/그릿.md",
+    "3. Resource/Book/2024/공간이 만든 공간.md",
+    "3. Resource/Book/2024/객체지향의 사실과 오해.md",
+    "3. Resource/Book/2024/Object.md",
     "2. Area/Dev/toy 🤖",
     "2. Area/Dev/Stack 📚/framework",
     "2. Area/Dev/Stack 📚/language",
