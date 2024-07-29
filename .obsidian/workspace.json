@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-29.md",
+                "file": "3. Resource/Book/2024/시대예보.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-29.md",
+                "file": "3. Resource/Book/2024/시대예보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-29.md",
+                "file": "3. Resource/Book/2024/시대예보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-07-29.md"
+                "file": "3. Resource/Book/2024/시대예보.md"
               }
             }
           }
@@ -142,8 +142,10 @@
   },
   "active": "25f9636750e9f472",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-07-27.md",
+    "3. Resource/Book/2024/살고싶다면 웨이트.md",
+    "3. Resource/Book/2024/비트코인 그리고 달러의 지정학.md",
     "5. Daily Report/2024/2024-07-29.md",
+    "5. Daily Report/2024/2024-07-27.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-26.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-25.md",
     "3. Resource/Book/2024/지옥의 메커니컬 기타 트레이닝 1.md",
@@ -153,7 +155,6 @@
     "3. Resource/Book/2024/헤드 퍼스트 디자인패턴.md",
     "3. Resource/Book/2024/객체지향의 사실과 오해.md",
     "3. Resource/Book/2024/Effectice Java.md",
-    "3. Resource/Book/2024/살고싶다면 웨이트.md",
     "2. Area/Dev/toy 🤖/helloworld (java-spring).md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-24.md",
     "5. Daily Report/2024/2024-07-22.md",
@@ -167,7 +168,6 @@
     "2. Area/Dev/toy 🤖/wallpaper engine for mac (2024-00-00).md",
     "2. Area/Dev/Stack 📚/language/js/DOMContentListener.md",
     "2. Area/Dev/Stack 📚/framework/spring/spring security & jwt.md",
-    "2. Area/Dev/Stack 📚/framework/spring/spring basic.md",
     "2. Area/Dev/toy 🤖",
     "2. Area/Dev/Stack 📚/framework",
     "2. Area/Dev/Stack 📚/language",
