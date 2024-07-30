@@ -57,13 +57,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -141,7 +139,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25f9636750e9f472",
+  "active": "3be74d1c134d03e3",
   "lastOpenFiles": [
     "3. Resource/Book/2024/프로그래머의 뇌.md",
     "3. Resource/Book/2024/비트코인 그리고 달러의 지정학.md",
