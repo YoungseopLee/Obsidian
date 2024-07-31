@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/etc.../에세이 작성 가이드.md",
+                "file": "2. Area/Dev/Stack 📚/language/java/Java 이해도 검사.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/etc.../에세이 작성 가이드.md",
+                "file": "2. Area/Dev/Stack 📚/language/java/Java 이해도 검사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/etc.../에세이 작성 가이드.md",
+                "file": "2. Area/Dev/Stack 📚/language/java/Java 이해도 검사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/etc.../에세이 작성 가이드.md"
+                "file": "2. Area/Dev/Stack 📚/language/java/Java 이해도 검사.md"
               }
             }
           }
@@ -142,8 +142,11 @@
   },
   "active": "25f9636750e9f472",
   "lastOpenFiles": [
-    "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
     "3. Resource/etc.../에세이 작성 가이드.md",
+    "2. Area/Dev/Stack 📚/language/java/Java 이해도 검사.md",
+    "2. Area/Dev/Stack 📚/language/java",
+    "2. Area/Dev/Stack 📚/language/Untitled.md",
+    "3. Resource/etc.../스토리텔링 기법 (Harmon Circle).md",
     "5. Daily Report/2024/2024-07-31.md",
     "5. Daily Report/2024/2024-07-30.md",
     "3. Resource/Book/2024/⭐️ 프로그래머의 뇌.md",
@@ -166,8 +169,6 @@
     "3. Resource/Book/2024/코스모스.md",
     "3. Resource/Book/2024/직업으로서의 소설가.md",
     "3. Resource/Book/2024/히사이시조의 음악일기.md",
-    "3. Resource/Book/2024/⭐️ 비트코인 그리고 달러의 지정학.md",
-    "3. Resource/Book/2024/문장의 비결.md",
     "2. Area/Dev/toy 🤖",
     "2. Area/Dev/Stack 📚/framework",
     "2. Area/Dev/Stack 📚/language",
@@ -180,7 +181,6 @@
     "3. Resource/Book/2024",
     "3. Resource/etc...",
     "5. Daily Report/2024/8월 리펙토링, 마이그레이션",
-    "5. Daily Report/2024/7월 개념정리, 코딩테스트",
     "Untitled.canvas"
   ]
 }
