@@ -16,7 +16,9 @@
 		
 	
 	* Thread Local ? 
-		
+
+* 2024-00-00 
+	*  ㅇ
 
 * 2024-08-07
 	* ORM, JPA, Hibernate, Spring Data JPA 에 대해 설명해보자 
