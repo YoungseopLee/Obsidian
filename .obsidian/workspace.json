@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-07.md",
+                "file": "1. Project/interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-07.md",
+                "file": "1. Project/interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-07.md",
+                "file": "1. Project/interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-07.md"
+                "file": "1. Project/interview.md"
               }
             }
           }
@@ -142,8 +142,9 @@
   },
   "active": "25f9636750e9f472",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-08-06.md",
+    "2. Area/Dev/Stack 📚/framework/spring/Spring Data JPA.md",
     "5. Daily Report/2024/2024-08-07.md",
+    "5. Daily Report/2024/2024-08-06.md",
     "5. Daily Report/2024/2024-07-30.md",
     "5. Daily Report/2024/2024-07-31.md",
     "5. Daily Report/2024/8월 리펙토링, 마이그레이션/2024-08-05.md",
@@ -167,7 +168,6 @@
     "3. Resource/Book/2024/오타쿠의 욕망을 읽다.md",
     "3. Resource/Book/2024/예술하는 습관.md",
     "3. Resource/Book/2024/더 시스템.md",
-    "3. Resource/Book/2024/공간이 만든 공간.md",
     "2. Area/Dev/Stack 📚/language/java",
     "2. Area/Dev/toy 🤖",
     "2. Area/Dev/Stack 📚/framework",
