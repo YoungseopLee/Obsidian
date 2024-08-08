@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68104c78193e0e96",
+        "id": "bdfa829a846ec3d2",
         "type": "tabs",
         "children": [
           {
-            "id": "25f9636750e9f472",
+            "id": "4f626a89cf114f76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/helloworld (java-spring).md",
+                "file": "5. Daily Report/2024/2024-08-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/helloworld (java-spring).md",
+                "file": "5. Daily Report/2024/2024-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/helloworld (java-spring).md",
+                "file": "5. Daily Report/2024/2024-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/helloworld (java-spring).md"
+                "file": "5. Daily Report/2024/2024-08-08.md"
               }
             }
           }
@@ -140,18 +139,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3be74d1c134d03e3",
+  "active": "4f626a89cf114f76",
   "lastOpenFiles": [
-    "2. Area/Music/청음훈련.md",
-    "2. Area/Music/오선보 보는 법 (TAB 에 대한 집착 버리기).md",
+    "2. Area/Dev/Stack 📚/framework/spring/helloworld (java-spring).md",
+    "2. Area/Dev/Stack 📚/language/swift/basic.md",
+    "2. Area/Dev/Stack 📚/language/swift/helloworld (swift).md",
+    "2. Area/Dev/Stack 📚/language/js/DOMContentListener.md",
+    "2. Area/Dev/Stack 📚/language/java/basic.md",
+    "2. Area/Dev/Stack 📚/computer science/http.md",
+    "5. Daily Report/2024/8월 리펙토링, 마이그레이션/2024-08-05.md",
     "5. Daily Report/2024/2024-08-08.md",
-    "1. Project/interview.md",
-    "2. Area/Dev/Stack 📚/framework/spring/Spring Data JPA.md",
+    "1. Project/yggdrasil_ai.md",
     "5. Daily Report/2024/2024-08-07.md",
+    "1. Project/interview.md",
+    "2. Area/Dev/toy 🤖/personal blog.md",
+    "2. Area/Dev/toy 🤖/wallpaper engine for mac (2024-00-00).md",
+    "2. Area/Music/청음훈련.md",
+    "2. Area/Music/오선보 보는 법.md",
+    "2. Area/Dev/Stack 📚/framework/spring/Spring Data JPA.md",
     "5. Daily Report/2024/2024-08-06.md",
     "5. Daily Report/2024/2024-07-30.md",
     "5. Daily Report/2024/2024-07-31.md",
-    "5. Daily Report/2024/8월 리펙토링, 마이그레이션/2024-08-05.md",
     "3. Resource/Book/2024/⭐️ 살고싶다면 웨이트.md",
     "3. Resource/Book/2024/⭐️ 비트코인 그리고 달러의 지정학.md",
     "3. Resource/Book/2024/자바, 스프링 개발자를 위한 실용주의 프로그래밍.md",
@@ -159,15 +167,6 @@
     "3. Resource/Book/2024/⭐️ 머니북.md",
     "3. Resource/Book/2024/⭐️ 시대예보.md",
     "3. Resource/Book/2024/⭐️ 지옥의 메커니컬 기타 트레이닝 1.md",
-    "3. Resource/Book/2024/⭐️ 프로그래머의 뇌.md",
-    "3. Resource/Book/2024/Effectice Java.md",
-    "3. Resource/Book/2024/헤드 퍼스트 디자인패턴.md",
-    "3. Resource/Book/2024/히사이시조의 음악일기.md",
-    "3. Resource/Book/2024/상관없는 거 아닌가?.md",
-    "3. Resource/Book/2024/악기연습하기 싫을 때 읽는 책.md",
-    "3. Resource/Book/2024/창조적 행위.md",
-    "3. Resource/Book/2024/코스모스.md",
-    "3. Resource/Book/2024/직업으로서의 소설가.md",
     "2. Area/Dev/Stack 📚/language/java",
     "2. Area/Dev/toy 🤖",
     "2. Area/Dev/Stack 📚/framework",
