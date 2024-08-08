@@ -26,8 +26,7 @@
 	설계 순서 
 		~~build.gradle, application.properties~~ 
 		~~baseEntity, GuestbookEntity~~
-		.
-		
+
 
 github token
 	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

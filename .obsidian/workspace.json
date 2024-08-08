@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-08.md",
+                "file": "2. Area/Dev/toy 🤖/helloworld (java-spring).md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-08.md",
+                "file": "2. Area/Dev/toy 🤖/helloworld (java-spring).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-08.md",
+                "file": "2. Area/Dev/toy 🤖/helloworld (java-spring).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-08.md"
+                "file": "2. Area/Dev/toy 🤖/helloworld (java-spring).md"
               }
             }
           }
@@ -140,10 +140,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25f9636750e9f472",
+  "active": "3be74d1c134d03e3",
   "lastOpenFiles": [
-    "1. Project/interview.md",
+    "2. Area/Music/청음훈련.md",
+    "2. Area/Music/오선보 보는 법 (TAB 에 대한 집착 버리기).md",
     "5. Daily Report/2024/2024-08-08.md",
+    "1. Project/interview.md",
     "2. Area/Dev/Stack 📚/framework/spring/Spring Data JPA.md",
     "5. Daily Report/2024/2024-08-07.md",
     "5. Daily Report/2024/2024-08-06.md",
@@ -166,8 +168,6 @@
     "3. Resource/Book/2024/창조적 행위.md",
     "3. Resource/Book/2024/코스모스.md",
     "3. Resource/Book/2024/직업으로서의 소설가.md",
-    "3. Resource/Book/2024/완전한 연주.md",
-    "3. Resource/Book/2024/오타쿠의 욕망을 읽다.md",
     "2. Area/Dev/Stack 📚/language/java",
     "2. Area/Dev/toy 🤖",
     "2. Area/Dev/Stack 📚/framework",
