@@ -1,4 +1,3 @@
-
 왜 튜토리얼 지옥을 벗어나지 못하는가?
 	 backend 를 공부하기 시작한 지 반년이 충분히 넘었다. (23년 11월 ~ 현재)
 	 그러나 기본적인 웹 서비스 (crud 와 같은 기본기능, ssr 개발, 관련 웹 개발 지식...) 를 
@@ -6,6 +5,7 @@
 ```
 가장 단순한 코드로 RESTful 한 CRUD 작성해보기
 서버사이드템플릿으로 thymeleaf 를 사용 
+
 
 ```
 2024-07-19 최소한의 기능을 포함한 Guestbook 구현
@@ -25,7 +25,7 @@
 	먼저 crud 구현을 습관화 하기
 	설계 순서 
 		~~build.gradle, application.properties~~ 
-		~~baseEntity, GuestbookEntity~~
+		~~baseEntity, GuestbookEntity
 
 
 github token
