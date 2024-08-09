@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-08.md",
+                "file": "5. Daily Report/2024/2024-08-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-08.md",
+                "file": "5. Daily Report/2024/2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-08.md",
+                "file": "5. Daily Report/2024/2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-08.md"
+                "file": "5. Daily Report/2024/2024-08-09.md"
               }
             }
           }
@@ -142,6 +142,8 @@
   },
   "active": "4f626a89cf114f76",
   "lastOpenFiles": [
+    "5. Daily Report/2024/2024-08-08.md",
+    "5. Daily Report/2024/2024-08-09.md",
     "2. Area/Dev/Stack 📚/framework/spring/helloworld (java-spring).md",
     "2. Area/Dev/Stack 📚/language/swift/basic.md",
     "2. Area/Dev/Stack 📚/language/swift/helloworld (swift).md",
@@ -149,7 +151,6 @@
     "2. Area/Dev/Stack 📚/language/java/basic.md",
     "2. Area/Dev/Stack 📚/computer science/http.md",
     "5. Daily Report/2024/8월 리펙토링, 마이그레이션/2024-08-05.md",
-    "5. Daily Report/2024/2024-08-08.md",
     "1. Project/yggdrasil_ai.md",
     "5. Daily Report/2024/2024-08-07.md",
     "1. Project/interview.md",
@@ -167,7 +168,6 @@
     "3. Resource/Book/2024/Object.md",
     "3. Resource/Book/2024/⭐️ 머니북.md",
     "3. Resource/Book/2024/⭐️ 시대예보.md",
-    "3. Resource/Book/2024/⭐️ 지옥의 메커니컬 기타 트레이닝 1.md",
     "2. Area/Dev/Stack 📚/language/java",
     "2. Area/Dev/toy 🤖",
     "2. Area/Dev/Stack 📚/framework",
