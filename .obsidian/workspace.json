@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-13.md",
+                "file": "1. Project/yggdrasil_ai.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-13.md",
+                "file": "1. Project/yggdrasil_ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-13.md",
+                "file": "1. Project/yggdrasil_ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-13.md"
+                "file": "1. Project/yggdrasil_ai.md"
               }
             }
           }
@@ -141,8 +142,8 @@
   },
   "active": "4f626a89cf114f76",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-08-09.md",
     "5. Daily Report/2024/2024-08-13.md",
+    "5. Daily Report/2024/2024-08-09.md",
     "3. Resource/Book/2024/Effectice Java.md",
     "3. Resource/Book/2024/당신 인생의 이야기.md",
     "5. Daily Report/2024/8월 리펙토링, 마이그레이션/2024-08-08.md",
