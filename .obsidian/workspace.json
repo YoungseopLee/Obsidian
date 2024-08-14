@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/yggdrasil_ai.md",
+                "file": "2. Area/Dev/toy 🤖/Haedam port.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/yggdrasil_ai.md",
+                "file": "2. Area/Dev/toy 🤖/Haedam port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/yggdrasil_ai.md",
+                "file": "2. Area/Dev/toy 🤖/Haedam port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/yggdrasil_ai.md"
+                "file": "2. Area/Dev/toy 🤖/Haedam port.md"
               }
             }
           }
@@ -142,6 +141,8 @@
   },
   "active": "4f626a89cf114f76",
   "lastOpenFiles": [
+    "1. Project/yggdrasil_ai.md",
+    "2. Area/Dev/toy 🤖/Haedam port.md",
     "5. Daily Report/2024/2024-08-13.md",
     "5. Daily Report/2024/2024-08-09.md",
     "3. Resource/Book/2024/Effectice Java.md",
@@ -155,7 +156,6 @@
     "2. Area/Dev/Stack 📚/language/java/basic.md",
     "2. Area/Dev/Stack 📚/computer science/http.md",
     "5. Daily Report/2024/8월 리펙토링, 마이그레이션/2024-08-05.md",
-    "1. Project/yggdrasil_ai.md",
     "5. Daily Report/2024/2024-08-07.md",
     "1. Project/interview.md",
     "2. Area/Dev/toy 🤖/personal blog.md",
@@ -167,7 +167,6 @@
     "5. Daily Report/2024/2024-07-30.md",
     "5. Daily Report/2024/2024-07-31.md",
     "3. Resource/Book/2024/⭐️ 살고싶다면 웨이트.md",
-    "3. Resource/Book/2024/⭐️ 비트코인 그리고 달러의 지정학.md",
     "2. Area/Dev/Stack 📚/language/java",
     "2. Area/Dev/toy 🤖",
     "2. Area/Dev/Stack 📚/framework",
