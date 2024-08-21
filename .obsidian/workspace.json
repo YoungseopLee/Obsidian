@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/interview.md",
+                "file": "3. Resource/etc.../소프트웨어 개발 효율적으로 하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/interview.md",
+                "file": "3. Resource/etc.../소프트웨어 개발 효율적으로 하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/interview.md",
+                "file": "3. Resource/etc.../소프트웨어 개발 효율적으로 하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/interview.md"
+                "file": "3. Resource/etc.../소프트웨어 개발 효율적으로 하기.md"
               }
             }
           }
@@ -143,14 +143,18 @@
   "active": "4f626a89cf114f76",
   "lastOpenFiles": [
     "2. Area/Dev/Stack 📚/framework/spring/helloworld.md",
-    "1. Project/interview.md",
+    "3. Resource/etc.../소프트웨어 개발 효율적으로 하기.md",
+    "2. Area/Dev/Brain.md",
     "2. Area/Dev/Stack 📚/framework/spring/spring basic.md",
+    "2. Area/Dev/Stack 📚/computer science/http.md",
+    "5. Daily Report/2024/2024-08-21.md",
+    "4. Archive/memo.md",
+    "1. Project/interview.md",
     "2. Area/Dev/Stack 📚/framework/spring/Spring Data JPA.md",
     "2. Area/Dev/Stack 📚/framework/spring/spring security & jwt.md",
     "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
     "2. Area/Dev/toy 🤖/personal blog.md",
     "2. Area/Dev/toy 🤖/wallpaper engine for mac.md",
-    "5. Daily Report/2024/2024-08-20.md",
     "5. Daily Report/2024/2024-08-13.md",
     "5. Daily Report/2024/2024-08-09.md",
     "5. Daily Report/2024/2024-08-15.md",
@@ -162,12 +166,8 @@
     "2. Area/Dev/Stack 📚/language/swift/basic.md",
     "2. Area/Dev/Stack 📚/language/js/DOMContentListener.md",
     "2. Area/Dev/Stack 📚/language/java/basic.md",
-    "2. Area/Dev/Stack 📚/computer science/http.md",
     "5. Daily Report/2024/8월 리펙토링, 마이그레이션/2024-08-05.md",
     "5. Daily Report/2024/2024-08-07.md",
-    "1. Project/interview.md",
-    "2. Area/Music/청음훈련.md",
-    "2. Area/Music/오선보 보는 법.md",
     "2. Area/Dev/Stack 📚/language/java",
     "2. Area/Dev/toy 🤖",
     "2. Area/Dev/Stack 📚/framework",
