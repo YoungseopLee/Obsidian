@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/etc.../소프트웨어 개발 효율적으로 하기.md",
+                "file": "5. Daily Report/2024/2024-08-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/etc.../소프트웨어 개발 효율적으로 하기.md",
+                "file": "5. Daily Report/2024/2024-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/etc.../소프트웨어 개발 효율적으로 하기.md",
+                "file": "5. Daily Report/2024/2024-08-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/etc.../소프트웨어 개발 효율적으로 하기.md"
+                "file": "5. Daily Report/2024/2024-08-23.md"
               }
             }
           }
@@ -142,8 +142,9 @@
   },
   "active": "4f626a89cf114f76",
   "lastOpenFiles": [
-    "2. Area/Dev/Stack 📚/framework/spring/helloworld.md",
     "3. Resource/etc.../소프트웨어 개발 효율적으로 하기.md",
+    "5. Daily Report/2024/2024-08-23.md",
+    "2. Area/Dev/Stack 📚/framework/spring/helloworld.md",
     "2. Area/Dev/Brain.md",
     "2. Area/Dev/Stack 📚/framework/spring/spring basic.md",
     "2. Area/Dev/Stack 📚/computer science/http.md",
@@ -167,7 +168,6 @@
     "2. Area/Dev/Stack 📚/language/js/DOMContentListener.md",
     "2. Area/Dev/Stack 📚/language/java/basic.md",
     "5. Daily Report/2024/8월 리펙토링, 마이그레이션/2024-08-05.md",
-    "5. Daily Report/2024/2024-08-07.md",
     "2. Area/Dev/Stack 📚/language/java",
     "2. Area/Dev/toy 🤖",
     "2. Area/Dev/Stack 📚/framework",
