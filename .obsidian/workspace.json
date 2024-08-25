@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-25.md",
+                "file": "2. Area/Dev/Stack 📚/language/swift/basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-25.md",
+                "file": "2. Area/Dev/Stack 📚/language/swift/basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-25.md",
+                "file": "2. Area/Dev/Stack 📚/language/swift/basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-08-25.md"
+                "file": "2. Area/Dev/Stack 📚/language/swift/basic.md"
               }
             }
           }
@@ -142,8 +142,8 @@
   },
   "active": "4f626a89cf114f76",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-08-23.md",
     "5. Daily Report/2024/2024-08-25.md",
+    "5. Daily Report/2024/2024-08-23.md",
     "2. Area/Dev/Stack 📚/aws/IaC (Infrastructure as Code).md",
     "2. Area/Dev/Stack 📚/aws",
     "3. Resource/etc.../소프트웨어 개발 효율적으로 하기.md",
