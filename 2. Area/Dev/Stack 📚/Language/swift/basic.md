@@ -66,8 +66,8 @@ for 반복문도 괄호가 필요없고 인덱싱 시 0..<5 와 같이 사용한
 			this.name = name;
 		}
 	}
+	
 	Person person = new Person("YoungseopLee"); 
-
 
 	class Person { // Swift 스타일
 		var name: String
@@ -84,3 +84,4 @@ for 반복문도 괄호가 필요없고 인덱싱 시 0..<5 와 같이 사용한
 			self.name = name
 		}
 	}
+
