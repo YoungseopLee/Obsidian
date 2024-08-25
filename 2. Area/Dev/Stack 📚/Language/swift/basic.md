@@ -49,3 +49,38 @@ for 반복문도 괄호가 필요없고 인덱싱 시 0..<5 와 같이 사용한
 	return a+b
 	}
 
+클래스 선언은 class 키워드를 사용한다. 
+
+	public class Person { // Java 스타일
+		String name; 
+		
+		public person(String name){
+				this.name = name;
+		}
+
+		public String getName(){
+			return name;
+		}
+		
+		public void setName(String name){
+			this.name = name;
+		}
+	}
+	Person person = new Person("YoungseopLee"); 
+
+
+	class Person { // Swift 스타일
+		var name: String
+		
+		init(name: String){
+			self.name = name
+		}
+		
+		func getName() -> String {
+			return name
+		}
+		
+		func setName(name: String){
+			self.name = name
+		}
+	}
