@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/Stack 📚/language/swift/basic.md",
+                "file": "5. Daily Report/2024/2024-08-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Dev/Stack 📚/language/swift/basic.md",
+                "file": "5. Daily Report/2024/2024-08-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Dev/Stack 📚/language/swift/basic.md",
+                "file": "5. Daily Report/2024/2024-08-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Dev/Stack 📚/language/swift/basic.md"
+                "file": "5. Daily Report/2024/2024-08-27.md"
               }
             }
           }
@@ -142,6 +141,8 @@
   },
   "active": "4f626a89cf114f76",
   "lastOpenFiles": [
+    "2. Area/Dev/Stack 📚/language/swift/basic.md",
+    "5. Daily Report/2024/2024-08-27.md",
     "5. Daily Report/2024/2024-08-25.md",
     "5. Daily Report/2024/2024-08-23.md",
     "2. Area/Dev/Stack 📚/aws/IaC (Infrastructure as Code).md",
@@ -167,8 +168,6 @@
     "3. Resource/Book/2024/당신 인생의 이야기.md",
     "5. Daily Report/2024/8월 리펙토링, 마이그레이션/2024-08-08.md",
     "2. Area/Dev/Stack 📚/language/swift/helloworld.md",
-    "2. Area/Dev/Stack 📚/language/swift/basic.md",
-    "2. Area/Dev/Stack 📚/language/js/DOMContentListener.md",
     "2. Area/Dev/Stack 📚/language/java",
     "2. Area/Dev/toy 🤖",
     "2. Area/Dev/Stack 📚/framework",
