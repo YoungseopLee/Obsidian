@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -143,6 +142,7 @@
   "active": "4f626a89cf114f76",
   "lastOpenFiles": [
     "1. Project/interview.md",
+    "5. Daily Report/2024/2024-09-05.md",
     "1. Project/자기소개서 양식.md",
     "5. Daily Report/2024/2024-09-04.md",
     "5. Daily Report/2024/2024-09-01.md",
@@ -167,7 +167,6 @@
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-10.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-09.md",
     "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-08.md",
-    "5. Daily Report/2024/7월 개념정리, 코딩테스트/2024-07-07.md",
     "2. Area/Dev/Stack 📚/aws",
     "2. Area/Dev/Stack 📚/language/java",
     "2. Area/Dev/toy 🤖",
