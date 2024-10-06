@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Book/2024/⭐️ 군주론.md",
+                "file": "5. Daily Report/2024/2024-10-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Book/2024/⭐️ 군주론.md",
+                "file": "5. Daily Report/2024/2024-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/Book/2024/⭐️ 군주론.md",
+                "file": "5. Daily Report/2024/2024-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/Book/2024/⭐️ 군주론.md"
+                "file": "5. Daily Report/2024/2024-10-06.md"
               }
             }
           }
@@ -126,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,6 +141,8 @@
   },
   "active": "4f626a89cf114f76",
   "lastOpenFiles": [
+    "3. Resource/Book/2024/⭐️ 군주론.md",
+    "5. Daily Report/2024/2024-10-06.md",
     "3. Resource/Book/2024/Effectice Java.md",
     "3. Resource/Book/2024/⭐️ 머니북.md",
     "3. Resource/Book/2024/⭐️ 돈의 속성.md",
@@ -149,7 +151,6 @@
     "3. Resource/Book/2024/⭐️ 시대예보.md",
     "3. Resource/Book/2024/⭐️ 지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2024/⭐️ 프로그래머의 뇌.md",
-    "3. Resource/Book/2024/⭐️ 군주론.md",
     "2. Area/Dev/toy 🤖/wallpaper engine for mac.md",
     "2. Area/Dev/toy 🤖/personal blog.md",
     "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
@@ -166,7 +167,6 @@
     "5. Daily Report/2024/2024-09-30 2.md",
     "1. Project/이력서, 자기소개서 작성하기.md",
     "1. Project/interview.md",
-    "5. Daily Report/2024/8월 리펙토링, 마이그레이션/2024-08-05.md",
     "2. Area/Dev/Stack 📚/aws",
     "2. Area/Dev/Stack 📚/language/java",
     "2. Area/Dev/toy 🤖",
