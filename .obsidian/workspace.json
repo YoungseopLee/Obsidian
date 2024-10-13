@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273
+    "width": 303.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -139,7 +140,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3be74d1c134d03e3",
+  "active": "4f626a89cf114f76",
   "lastOpenFiles": [
     "5. Daily Report/2024/12월",
     "5. Daily Report/2025/1월",
