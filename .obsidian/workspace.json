@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/blog.md",
+                "file": "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273,
-    "collapsed": true
+    "width": 303.50390243530273
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/blog.md",
+                "file": "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/blog.md",
+                "file": "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/blog.md"
+                "file": "2. Area/Dev/toy 🤖/Digital Arts Shop.md"
               }
             }
           }
@@ -140,15 +139,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3be74d1c134d03e3",
+  "active": "4f626a89cf114f76",
   "lastOpenFiles": [
+    "2. Area/Dev/toy 🤖/blog.md",
+    "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
+    "2. Area/Dev/toy 🤖/metronome ios.md",
+    "2. Area/Dev/toy 🤖/wallpaper engine for mac.md",
     "5. Daily Report/2024/12월",
     "5. Daily Report/2025/1월",
     "5. Daily Report/2024/11월",
     "5. Daily Report/2024/10월/2024-10-09.md",
-    "2. Area/Dev/toy 🤖/blog.md",
-    "2. Area/Dev/toy 🤖/wallpaper engine for mac.md",
-    "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
     "5. Daily Report/2024/10월/2024-10-13.md",
     "2. Area/Dev/Stack 📚/aws/IaC (Infrastructure as Code).md",
     "1. Project/클라우드 및 보안관제 업무 면접.md",
@@ -180,7 +180,6 @@
     "Pasted image 20240628142707.png",
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
     "Screenshot 2024-06-28 at 2.23.52 PM 1.png",
-    "3. Resource/Tech",
     "Untitled.canvas"
   ]
 }
