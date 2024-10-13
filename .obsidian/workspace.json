@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
+                "file": "2. Area/Dev/Stack 📚/framework/spring/helloworld.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273
+    "width": 303.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
+                "file": "2. Area/Dev/Stack 📚/framework/spring/helloworld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
+                "file": "2. Area/Dev/Stack 📚/framework/spring/helloworld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/Digital Arts Shop.md"
+                "file": "2. Area/Dev/Stack 📚/framework/spring/helloworld.md"
               }
             }
           }
@@ -139,8 +140,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f626a89cf114f76",
+  "active": "3be74d1c134d03e3",
   "lastOpenFiles": [
+    "2. Area/Dev/Stack 📚/framework/spring/spring security & jwt.md",
+    "2. Area/Dev/Stack 📚/framework/spring/Spring Data JPA.md",
+    "2. Area/Dev/Stack 📚/framework/spring/spring basic.md",
+    "2. Area/Dev/Stack 📚/framework/spring/helloworld.md",
+    "2. Area/Dev/Stack 📚/language/swift/basic.md",
+    "2. Area/Dev/Stack 📚/language/java/basic.md",
     "2. Area/Dev/toy 🤖/blog.md",
     "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
     "2. Area/Dev/toy 🤖/metronome ios.md",
@@ -166,12 +173,6 @@
     "3. Resource/Book/2024/Effectice Java.md",
     "3. Resource/Book/2024/⭐️ 비트코인 그리고 달러의 지정학.md",
     "3. Resource/Book/2024/⭐️ 살고싶다면 웨이트.md",
-    "3. Resource/Book/2024/⭐️ 시대예보.md",
-    "3. Resource/Book/2024/⭐️ 지옥의 메커니컬 기타 트레이닝 1.md",
-    "3. Resource/Book/2024/⭐️ 프로그래머의 뇌.md",
-    "5. Daily Report/2024/9월 구직, 이력서첨삭/2024-09-01.md",
-    "5. Daily Report/2024/2024-09-17.md",
-    "5. Daily Report/2024/2024-09-04.md",
     "2. Area/Dev/Stack 📚/aws",
     "2. Area/Dev/Stack 📚/language/java",
     "2. Area/Dev/toy 🤖",
