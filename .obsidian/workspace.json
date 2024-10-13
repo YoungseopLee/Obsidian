@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-10-13.md",
+                "file": "2. Area/Dev/toy 🤖/blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily Report/2024/2024-10-13.md",
+                "file": "2. Area/Dev/toy 🤖/blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Daily Report/2024/2024-10-13.md",
+                "file": "2. Area/Dev/toy 🤖/blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Report/2024/2024-10-13.md"
+                "file": "2. Area/Dev/toy 🤖/blog.md"
               }
             }
           }
@@ -140,10 +140,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f626a89cf114f76",
+  "active": "3be74d1c134d03e3",
   "lastOpenFiles": [
+    "5. Daily Report/2024/12월",
+    "5. Daily Report/2025/1월",
+    "5. Daily Report/2024/11월",
     "5. Daily Report/2024/10월/2024-10-09.md",
-    "5. Daily Report/2024/2024-10-13.md",
+    "2. Area/Dev/toy 🤖/blog.md",
+    "2. Area/Dev/toy 🤖/wallpaper engine for mac.md",
+    "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
+    "5. Daily Report/2024/10월/2024-10-13.md",
     "2. Area/Dev/Stack 📚/aws/IaC (Infrastructure as Code).md",
     "1. Project/클라우드 및 보안관제 업무 면접.md",
     "1. Project/이력서, 자기소개서 작성하기.md",
@@ -163,13 +169,9 @@
     "3. Resource/Book/2024/⭐️ 시대예보.md",
     "3. Resource/Book/2024/⭐️ 지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2024/⭐️ 프로그래머의 뇌.md",
-    "2. Area/Dev/toy 🤖/wallpaper engine for mac.md",
-    "2. Area/Dev/toy 🤖/personal blog.md",
-    "2. Area/Dev/toy 🤖/Digital Arts Shop.md",
     "5. Daily Report/2024/9월 구직, 이력서첨삭/2024-09-01.md",
     "5. Daily Report/2024/2024-09-17.md",
     "5. Daily Report/2024/2024-09-04.md",
-    "5. Daily Report/2024/2024-09-05.md",
     "2. Area/Dev/Stack 📚/aws",
     "2. Area/Dev/Stack 📚/language/java",
     "2. Area/Dev/toy 🤖",
@@ -179,8 +181,6 @@
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
     "Screenshot 2024-06-28 at 2.23.52 PM 1.png",
     "3. Resource/Tech",
-    "5. Daily Report/2024/9월 구직, 이력서첨삭",
-    "3. Resource/Book/2024/6월",
     "Untitled.canvas"
   ]
 }
