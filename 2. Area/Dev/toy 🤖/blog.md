@@ -1,5 +1,8 @@
-feature : login, signup, CRUD s 
-
+feature 
+	login, signup
+	post crud
+	
+	
 front  
 	html5, css, typescript, react 
 back  
@@ -10,7 +13,7 @@ back
 		thymeleaf templates
 db 
 	PostgreSQL, MySQL
-
+	
 ---
 - [x] 개발환경 설정
 - [x] github repository 생성

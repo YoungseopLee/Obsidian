@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Book/2024/왜 우리는 매일 거대도시로 향하는가.md",
+                "file": "2. Area/Dev/toy 🤖/blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "왜 우리는 매일 거대도시로 향하는가"
+              "title": "blog"
             }
           }
         ]
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273
+    "width": 303.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Book/2024/왜 우리는 매일 거대도시로 향하는가.md",
+                "file": "2. Area/Dev/toy 🤖/blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 왜 우리는 매일 거대도시로 향하는가"
+              "title": "Backlinks for blog"
             }
           },
           {
@@ -102,12 +103,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/Book/2024/왜 우리는 매일 거대도시로 향하는가.md",
+                "file": "2. Area/Dev/toy 🤖/blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 왜 우리는 매일 거대도시로 향하는가"
+              "title": "Outgoing links from blog"
             }
           },
           {
@@ -129,10 +130,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/Book/2024/왜 우리는 매일 거대도시로 향하는가.md"
+                "file": "2. Area/Dev/toy 🤖/blog.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 왜 우리는 매일 거대도시로 향하는가"
+              "title": "Outline of blog"
             }
           }
         ],
@@ -155,6 +156,22 @@
   },
   "active": "4f626a89cf114f76",
   "lastOpenFiles": [
+    "2. Area/Dev/toy 🤖/metronome ios.md",
+    "templates/0000-00-00.md",
+    "5. Daily Report/2024/10월/2024-10-20.md",
+    "5. Daily Report/2024/10월/2024-10-13.md",
+    "3. Resource/Book/2024/자바, 스프링 개발자를 위한 실용주의 프로그래밍.md",
+    "3. Resource/Book/2024/히사이시조의 음악일기.md",
+    "3. Resource/Book/2024/헤드 퍼스트 디자인패턴.md",
+    "3. Resource/Book/2024/Effectice Java.md",
+    "3. Resource/Book/2024/Object.md",
+    "3. Resource/Book/2024/그래서 우리는 음악을 듣는다.md",
+    "3. Resource/Book/2024/객체지향의 사실과 오해.md",
+    "3. Resource/Book/2024/당신 인생의 이야기.md",
+    "1. Project/자기소개서01.md",
+    "1. Project/yggdrasil_ai.md",
+    "1. Project/클라우드 및 보안관제 업무 면접.md",
+    "3. Resource/Book/2024/왜 우리는 매일 거대도시로 향하는가.md",
     "3. Resource/Book/2024/⭐️ 공간이 만든 공간.md",
     "3. Resource/Book/2024/⭐️ 군주론.md",
     "3. Resource/Book/2024/⭐️ 돈의 속성.md",
@@ -165,23 +182,7 @@
     "3. Resource/Book/2024/⭐️ 지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2024/⭐️ 직업으로서의 소설가.md",
     "3. Resource/Book/2024/프로젝트 헤일메리.md",
-    "3. Resource/Book/2024/히사이시조의 음악일기.md",
-    "3. Resource/Book/2024/헤드 퍼스트 디자인패턴.md",
-    "3. Resource/Book/2024/코스모스.md",
-    "3. Resource/Book/2024/창조적 행위.md",
-    "3. Resource/Book/2024/자바, 스프링 개발자를 위한 실용주의 프로그래밍.md",
-    "3. Resource/Book/2024/왜 우리는 매일 거대도시로 향하는가.md",
-    "3. Resource/Book/2024/Do it, 알고리즘 코딩테스트 (with.java).md",
-    "3. Resource/Book/2024/Effectice Java.md",
-    "3. Resource/Book/2024/당신 인생의 이야기.md",
-    "3. Resource/Book/2024/그래서 우리는 음악을 듣는다.md",
-    "3. Resource/Book/2024/물고기는 존재하지 않는다.md",
-    "3. Resource/Book/2024/상관없는 거 아닌가?.md",
-    "2. Area/Dev/toy 🤖/blog.md",
-    "2. Area/Dev/Data Structure/Do it, 알고리즘 코딩테스트.md",
     "2. Area/Dev/Data Structure",
-    "5. Daily Report/2024/2024-10-20.md",
-    "2. Area/Dev/toy 🤖/metronome ios.md",
     "5. Daily Report/2024/12월",
     "5. Daily Report/2025/1월",
     "5. Daily Report/2024/11월",
