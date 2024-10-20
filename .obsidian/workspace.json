@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Book/2024/⭐️ 살고싶다면 웨이트.md",
+                "file": "3. Resource/Book/2024/⭐️ 공간이 만든 공간.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⭐️ 살고싶다면 웨이트"
+              "title": "⭐️ 공간이 만든 공간"
             }
           }
         ]
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/Book/2024/⭐️ 살고싶다면 웨이트.md",
+                "file": "3. Resource/Book/2024/⭐️ 공간이 만든 공간.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ⭐️ 살고싶다면 웨이트"
+              "title": "Backlinks for ⭐️ 공간이 만든 공간"
             }
           },
           {
@@ -103,12 +103,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/Book/2024/⭐️ 살고싶다면 웨이트.md",
+                "file": "3. Resource/Book/2024/⭐️ 공간이 만든 공간.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ⭐️ 살고싶다면 웨이트"
+              "title": "Outgoing links from ⭐️ 공간이 만든 공간"
             }
           },
           {
@@ -130,10 +130,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/Book/2024/⭐️ 살고싶다면 웨이트.md"
+                "file": "3. Resource/Book/2024/⭐️ 공간이 만든 공간.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ⭐️ 살고싶다면 웨이트"
+              "title": "Outline of ⭐️ 공간이 만든 공간"
             }
           }
         ],
@@ -156,8 +156,13 @@
   },
   "active": "4f626a89cf114f76",
   "lastOpenFiles": [
-    "3. Resource/Book/2024/⭐️ 머니북.md",
     "3. Resource/Book/2024/⭐️ 군주론.md",
+    "3. Resource/Book/2024/⭐️ 돈의 속성.md",
+    "3. Resource/Book/2024/⭐️ 머니북.md",
+    "3. Resource/Book/2024/⭐️ 비트코인 그리고 달러의 지정학.md",
+    "3. Resource/Book/2024/⭐️ 살고싶다면 웨이트.md",
+    "3. Resource/Book/2024/⭐️ 시대예보.md",
+    "3. Resource/Book/2024/⭐️ 지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2024/⭐️ 공간이 만든 공간.md",
     "3. Resource/Book/2024/⭐️ 직업으로서의 소설가.md",
     "3. Resource/Book/2024/프로젝트 헤일메리.md",
@@ -178,11 +183,6 @@
     "2. Area/Dev/Data Structure",
     "5. Daily Report/2024/2024-10-20.md",
     "2. Area/Dev/toy 🤖/metronome ios.md",
-    "2. Area/Dev/toy 🤖/wallpaper engine for mac.md",
-    "2. Area/Dev/Stack 📚/framework/spring/helloworld.md",
-    "2. Area/Dev/Stack 📚/framework/spring/spring security & jwt.md",
-    "2. Area/Dev/Stack 📚/framework/spring/Spring Data JPA.md",
-    "2. Area/Dev/Stack 📚/framework/spring/spring basic.md",
     "5. Daily Report/2024/12월",
     "5. Daily Report/2025/1월",
     "5. Daily Report/2024/11월",
