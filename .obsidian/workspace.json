@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/toy 🤖/blog.md",
+                "file": "5. Daily Report/2024/2024-10-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blog"
+              "title": "2024-10-21"
             }
           }
         ]
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273,
-    "collapsed": true
+    "width": 303.50390243530273
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -156,6 +155,8 @@
   },
   "active": "4f626a89cf114f76",
   "lastOpenFiles": [
+    "2. Area/Dev/toy 🤖/blog.md",
+    "5. Daily Report/2024/2024-10-21.md",
     "2. Area/Dev/toy 🤖/metronome ios.md",
     "templates/0000-00-00.md",
     "5. Daily Report/2024/10월/2024-10-20.md",
@@ -180,8 +181,6 @@
     "3. Resource/Book/2024/⭐️ 살고싶다면 웨이트.md",
     "3. Resource/Book/2024/⭐️ 시대예보.md",
     "3. Resource/Book/2024/⭐️ 지옥의 메커니컬 기타 트레이닝 1.md",
-    "3. Resource/Book/2024/⭐️ 직업으로서의 소설가.md",
-    "3. Resource/Book/2024/프로젝트 헤일메리.md",
     "2. Area/Dev/Data Structure",
     "5. Daily Report/2024/12월",
     "5. Daily Report/2025/1월",
