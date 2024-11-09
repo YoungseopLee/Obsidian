@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f626a89cf114f76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resource/Book/2024/왜 우리는 매일 거대도시로 향하는가.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "왜 우리는 매일 거대도시로 향하는가"
-            }
-          },
-          {
             "id": "34403b208d993db5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-11-05.md",
+                "file": "5. Daily Report/2024/2024-11-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-05"
+              "title": "2024-11-09"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.50390243530273
+    "width": 294.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -171,6 +157,7 @@
   "active": "34403b208d993db5",
   "lastOpenFiles": [
     "5. Daily Report/2024/2024-11-05.md",
+    "5. Daily Report/2024/2024-11-09.md",
     "5. Daily Report/2024/2024-11-02.md",
     "3. Resource/Book/2024/Do it, 알고리즘 코딩테스트 (with.java).md",
     "2. Area/Dev/Stack 📚/language/swift/helloworld.md",
@@ -195,7 +182,6 @@
     "3. Resource/Book/2024/헤드 퍼스트 디자인패턴.md",
     "3. Resource/Book/2024/Effectice Java.md",
     "3. Resource/Book/2024/Object.md",
-    "3. Resource/Book/2024/그래서 우리는 음악을 듣는다.md",
     "2. Area/Dev/Data Structure",
     "5. Daily Report/2024/12월",
     "5. Daily Report/2025/1월",
