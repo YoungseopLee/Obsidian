@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "자기소개서"
             }
+          },
+          {
+            "id": "755a6a29c26b7b72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Daily Report/2024/2024-11-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,8 +168,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34403b208d993db5",
+  "active": "755a6a29c26b7b72",
   "lastOpenFiles": [
+    "5. Daily Report/2024/2024-11-14.md",
     "1. Project/포트폴리오.md",
     "2. Area/Dev/Stack 📚/aws/IaC (Infrastructure as Code).md",
     "2. Area/Dev/Stack 📚/computer science/http.md",
@@ -180,7 +196,6 @@
     "5. Daily Report/2024/10월/2024-10-13.md",
     "3. Resource/Book/2024/자바, 스프링 개발자를 위한 실용주의 프로그래밍.md",
     "3. Resource/Book/2024/히사이시조의 음악일기.md",
-    "3. Resource/Book/2024/헤드 퍼스트 디자인패턴.md",
     "2. Area/Dev/Data Structure",
     "5. Daily Report/2024/12월",
     "5. Daily Report/2025/1월",
