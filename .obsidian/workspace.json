@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Book/2024/이방인.md",
+                "file": "5. Daily Report/2024/2024-11-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이방인"
+              "title": "2024-11-21"
             }
           }
         ]
@@ -155,8 +155,9 @@
   },
   "active": "48b9dc657c7870e5",
   "lastOpenFiles": [
-    "3. Resource/Book/2024/참을 수 없는 존재의 가벼움.md",
     "3. Resource/Book/2024/이방인.md",
+    "5. Daily Report/2024/2024-11-21.md",
+    "3. Resource/Book/2024/참을 수 없는 존재의 가벼움.md",
     "5. Daily Report/2024/2024-11-19.md",
     "5. Daily Report/2024/2024-11-18.md",
     "5. Daily Report/2024/10월/2024-10-21.md",
@@ -180,7 +181,6 @@
     "2. Area/Dev/Stack 📚/language/java/2.고급.md",
     "2. Area/Dev/Stack 📚/language/java/0.기본.md",
     "2. Area/Dev/toy 🤖/metronome ios.md",
-    "templates/0000-00-00.md",
     "2. Area/Dev/Data Structure",
     "5. Daily Report/2024/12월",
     "5. Daily Report/2025/1월",
