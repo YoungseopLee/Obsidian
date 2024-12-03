@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/12월/2024-12-01.md",
+                "file": "5. Daily Report/2024/2024-12-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-01"
+              "title": "2024-12-03"
             }
           }
         ]
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.50390243530273
+    "width": 294.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -155,10 +156,11 @@
   },
   "active": "8b480014146a16ff",
   "lastOpenFiles": [
+    "5. Daily Report/2024/12월/2024-12-01.md",
+    "5. Daily Report/2024/2024-12-03.md",
     "2. Area/Dev/Stack 📚/computer science/http.md",
     "5. Daily Report/2024/2024-11-27.md",
     "2. Area/Dev/Stack 📚/aws/IaC (Infrastructure as Code).md",
-    "5. Daily Report/2024/12월/2024-12-01.md",
     "1. Project/project Headam.md",
     "1. Project/00자기소개서.md",
     "5. Daily Report/2024/2024-11-22.md",
@@ -180,7 +182,6 @@
     "3. Resource/Book/2024/자바, 스프링 개발자를 위한 실용주의 프로그래밍.md",
     "3. Resource/Book/2024/왜 우리는 매일 거대도시로 향하는가.md",
     "5. Daily Report/2024/2024-11-21.md",
-    "3. Resource/Book/2024/참을 수 없는 존재의 가벼움.md",
     "2. Area/Dev/Data Structure",
     "5. Daily Report/2024/12월",
     "5. Daily Report/2025/1월",
