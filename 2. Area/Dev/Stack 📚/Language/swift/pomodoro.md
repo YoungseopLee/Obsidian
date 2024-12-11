@@ -10,5 +10,15 @@ framework : swiftUI
 종료되면 알림 
 백그라운드 작동 
 
+```
+import SwiftUI
+import UserNotifications // 알림을 위해 필요
+```
 
+```
+struct DialTimerView: View { 
+// 화면에 표시될 요소들 작성 
+
+}
+```
 
