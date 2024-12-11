@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Book/2024/부의 인문학.md",
+                "file": "2. Area/Dev/Stack 📚/language/swift/pomodoro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "부의 인문학"
+              "title": "pomodoro"
             }
           }
         ]
@@ -155,9 +155,10 @@
   },
   "active": "ac65bf893b6c756b",
   "lastOpenFiles": [
+    "3. Resource/Book/2024/부의 인문학.md",
+    "2. Area/Dev/Stack 📚/language/swift/pomodoro.md",
     "5. Daily Report/2024/2024-12-11.md",
     "5. Daily Report/2024/2024 회고.md",
-    "3. Resource/Book/2024/부의 인문학.md",
     "5. Daily Report/2024/12월 취?업/2024-12-05.md",
     "5. Daily Report/2025/1월/Untitled.md",
     "3. Resource/Book/2024/✅ 프로그래머의 뇌.md",
@@ -181,7 +182,6 @@
     "5. Daily Report/2024/12월 취?업/2024-12-01.md",
     "5. Daily Report/2024/2024-11-27.md",
     "2. Area/Dev/Stack 📚/infra/IaC (Infrastructure as Code).md",
-    "1. Project/project Headam.md",
     "2. Area/Dev/Data Structure",
     "5. Daily Report/2024/12월 취?업",
     "5. Daily Report/2025/1월",
