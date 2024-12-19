@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/Stack 📚/infra/kt cloud.md",
+                "file": "2. Area/Dev/Stack 📚/infra/cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kt cloud"
+              "title": "cloud"
             }
           }
         ]
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.50390243530273
+    "width": 294.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -155,10 +156,10 @@
   },
   "active": "ac65bf893b6c756b",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-12-19.md",
-    "2. Area/Dev/Stack 📚/infra/kt cloud.md",
-    "2. Area/Dev/Stack 📚/infra/cloud.md",
     "2. Area/Dev/Stack 📚/infra/IaC (Infrastructure as Code).md",
+    "2. Area/Dev/Stack 📚/infra/kt cloud.md",
+    "5. Daily Report/2024/2024-12-19.md",
+    "2. Area/Dev/Stack 📚/infra/cloud.md",
     "2. Area/Dev/Stack 📚/infra/docker",
     "2. Area/Dev/Stack 📚/Untitled",
     "2. Area/Dev/toy 🤖/wallpaper engine for mac.md",
