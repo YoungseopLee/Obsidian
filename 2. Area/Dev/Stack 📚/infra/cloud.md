@@ -96,14 +96,11 @@
 		. 
 	가상화 기술 (hyperviser, container(docker, kubernates))
 		
-		.
 		
-		.
-		
-		.
-		
-		.
-		
+
+직접 사용해보기  
+
+
 
 
 #cs
