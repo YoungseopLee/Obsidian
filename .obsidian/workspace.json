@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-12-20.md",
+                "file": "2. Area/Dev/model/YOLO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-20"
+              "title": "YOLO"
             }
           }
         ]
@@ -156,16 +156,18 @@
   },
   "active": "ac65bf893b6c756b",
   "lastOpenFiles": [
-    "2. Area/Dev/Stack 📚/infra/cloud.md",
     "5. Daily Report/2024/2024-12-20.md",
-    "2. Area/Dev/Stack 📚/infra/IaC (Infrastructure as Code).md",
-    "2. Area/Dev/Stack 📚/infra/kt cloud.md",
+    "2. Area/Dev/model/YOLO.md",
+    "2. Area/Dev/model",
+    "2. Area/Dev/infra/cloud.md",
+    "2. Area/Dev/infra/IaC (Infrastructure as Code).md",
+    "2. Area/Dev/infra/kt cloud.md",
     "5. Daily Report/2024/2024-12-19.md",
     "2. Area/Dev/Stack 📚/infra/docker",
     "2. Area/Dev/Stack 📚/Untitled",
-    "2. Area/Dev/toy 🤖/wallpaper engine for mac.md",
+    "1. Project/toy 🤖/wallpaper engine for mac.md",
     "5. Daily Report/2024/2024-12-18.md",
-    "2. Area/Dev/toy 🤖/metronome ios.md",
+    "1. Project/toy 🤖/metronome ios.md",
     "4. Archive/memo.md",
     "4. Archive/정보처리기사 (2024-06-18).md",
     "5. Daily Report/2024/2024 회고.md",
@@ -173,17 +175,16 @@
     "5. Daily Report/2024/12월 취?업/2024-12-11.md",
     "4. Archive/2025년, 앞으로 우리는 어떻게 살아야 할까? (정희원, 송길영).md",
     "3. Resource/Book/2024/부의 인문학.md",
-    "2. Area/Dev/Stack 📚/language/swift/pomodoro.md",
-    "2. Area/Dev/Stack 📚/language/swift/basic.md",
-    "2. Area/Dev/Stack 📚/language/swift/helloworld.md",
-    "2. Area/Dev/Stack 📚/language/js/DOMContentListener.md",
+    "2. Area/Dev/language/swift/pomodoro.md",
+    "2. Area/Dev/language/swift/basic.md",
+    "2. Area/Dev/language/swift/helloworld.md",
+    "2. Area/Dev/language/js/DOMContentListener.md",
     "5. Daily Report/2024/12월 취?업/2024-12-05.md",
     "5. Daily Report/2025/1월/Untitled.md",
     "3. Resource/Book/2024/✅ 프로그래머의 뇌.md",
     "3. Resource/Book/2024/✅ 지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2024/✅ 오타쿠의 욕망을 읽다.md",
     "3. Resource/Book/2024/✅ 시대예보.md",
-    "3. Resource/Book/2024/✅ 비트코인 그리고 달러의 지정학.md",
     "3. Resource/Book/2025",
     "2. Area/Dev/Data Structure",
     "5. Daily Report/2024/12월 취?업",
@@ -191,7 +192,6 @@
     "5. Daily Report/2024/11월",
     "3. Resource/Movie",
     "5. Daily Report/2024/10월",
-    "2. Area/Dev/Stack 📚/infra",
     "Pasted image 20240628142707.png",
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
     "Screenshot 2024-06-28 at 2.23.52 PM 1.png",
