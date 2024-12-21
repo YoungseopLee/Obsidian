@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-12-20.md",
+                "file": "5. Daily Report/2025/1월/목표.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-20"
+              "title": "목표"
             }
           }
         ]
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.50390243530273,
-    "collapsed": true
+    "width": 294.50390243530273
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -156,8 +155,9 @@
   },
   "active": "ac65bf893b6c756b",
   "lastOpenFiles": [
-    "2. Area/Dev/model/YOLO.md",
     "5. Daily Report/2024/2024-12-20.md",
+    "5. Daily Report/2025/1월/목표.md",
+    "2. Area/Dev/model/YOLO.md",
     "2. Area/Dev/model",
     "2. Area/Dev/infra/cloud.md",
     "2. Area/Dev/infra/IaC (Infrastructure as Code).md",
@@ -180,7 +180,6 @@
     "2. Area/Dev/language/swift/helloworld.md",
     "2. Area/Dev/language/js/DOMContentListener.md",
     "5. Daily Report/2024/12월 취?업/2024-12-05.md",
-    "5. Daily Report/2025/1월/Untitled.md",
     "3. Resource/Book/2024/✅ 프로그래머의 뇌.md",
     "3. Resource/Book/2024/✅ 지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2024/✅ 오타쿠의 욕망을 읽다.md",
