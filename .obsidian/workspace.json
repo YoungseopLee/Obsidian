@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/infra/docker/token.md",
+                "file": "2. Area/Dev/infra/docker/example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "token"
+              "title": "example"
             }
           }
         ]
@@ -155,8 +155,10 @@
   },
   "active": "8e1e87d1bdc013af",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-12-23.md",
+    "1. Project/toy 🤖/blog.md",
+    "2. Area/Dev/infra/docker/example.md",
     "2. Area/Dev/infra/docker/token.md",
+    "5. Daily Report/2024/2024-12-23.md",
     "2. Area/Dev/infra/docker",
     "5. Daily Report/2024/12월 취?업/2024-12-22.md",
     "5. Daily Report/2024/12월 취?업/2024-12-20.md",
@@ -183,8 +185,6 @@
     "2. Area/Dev/language/swift/basic.md",
     "2. Area/Dev/language/swift/helloworld.md",
     "2. Area/Dev/language/js/DOMContentListener.md",
-    "5. Daily Report/2024/12월 취?업/2024-12-05.md",
-    "3. Resource/Book/2024/✅ 프로그래머의 뇌.md",
     "3. Resource/Book/2025",
     "2. Area/Dev/Data Structure",
     "5. Daily Report/2024/12월 취?업",
