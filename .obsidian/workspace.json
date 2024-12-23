@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/infra/docker/docker hub.md",
+                "file": "5. Daily Report/2024/2024-12-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker hub"
+              "title": "2024-12-23"
             }
           }
         ]
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.50390243530273
+    "width": 294.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -155,14 +156,14 @@
   },
   "active": "8e1e87d1bdc013af",
   "lastOpenFiles": [
-    "1. Project/toy 🤖/blog.md",
+    "5. Daily Report/2025/1월/0.목표.md",
     "2. Area/Dev/infra/docker/docker hub.md",
+    "1. Project/toy 🤖/blog.md",
     "2. Area/Dev/infra/docker/token.md",
     "5. Daily Report/2024/2024-12-23.md",
     "2. Area/Dev/infra/docker",
     "5. Daily Report/2024/12월 취?업/2024-12-22.md",
     "5. Daily Report/2024/12월 취?업/2024-12-20.md",
-    "5. Daily Report/2025/1월/0.목표.md",
     "2. Area/Dev/model/YOLO.md",
     "2. Area/Dev/model",
     "2. Area/Dev/infra/cloud.md",
