@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/infra/docker/docker hub.md",
+                "file": "1. Project/toy 🤖/blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker hub"
+              "title": "blog"
             }
           }
         ]
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.50390243530273,
-    "collapsed": true
+    "width": 294.50390243530273
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -156,13 +155,13 @@
   },
   "active": "8e1e87d1bdc013af",
   "lastOpenFiles": [
+    "2. Area/Dev/infra/docker/docker hub.md",
     "2. Area/Dev/infra/docker/token.md",
     "4. Archive/2025년, 앞으로 우리는 어떻게 살아야 할까? (정희원, 송길영).md",
     "4. Archive/IT 업계의 발전동향에 대해 생각해보기.md",
     "5. Daily Report/2024/2024-12-23.md",
     "5. Daily Report/2024/2024 회고.md",
     "5. Daily Report/2025/1월/0.목표.md",
-    "2. Area/Dev/infra/docker/docker hub.md",
     "1. Project/toy 🤖/blog.md",
     "2. Area/Dev/infra/docker",
     "5. Daily Report/2024/12월 취?업/2024-12-22.md",
