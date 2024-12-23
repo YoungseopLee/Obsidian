@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-12-23.md",
+                "file": "2. Area/Dev/infra/docker/token.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-23"
+              "title": "token"
             }
           }
         ]
@@ -155,8 +155,10 @@
   },
   "active": "8e1e87d1bdc013af",
   "lastOpenFiles": [
-    "5. Daily Report/2024/12월 취?업/2024-12-22.md",
     "5. Daily Report/2024/2024-12-23.md",
+    "2. Area/Dev/infra/docker/token.md",
+    "2. Area/Dev/infra/docker",
+    "5. Daily Report/2024/12월 취?업/2024-12-22.md",
     "5. Daily Report/2024/12월 취?업/2024-12-20.md",
     "5. Daily Report/2025/1월/0.목표.md",
     "2. Area/Dev/model/YOLO.md",
@@ -183,14 +185,12 @@
     "2. Area/Dev/language/js/DOMContentListener.md",
     "5. Daily Report/2024/12월 취?업/2024-12-05.md",
     "3. Resource/Book/2024/✅ 프로그래머의 뇌.md",
-    "3. Resource/Book/2024/✅ 지옥의 메커니컬 기타 트레이닝 1.md",
     "3. Resource/Book/2025",
     "2. Area/Dev/Data Structure",
     "5. Daily Report/2024/12월 취?업",
     "5. Daily Report/2025/1월",
     "5. Daily Report/2024/11월",
     "3. Resource/Movie",
-    "5. Daily Report/2024/10월",
     "Pasted image 20240628142707.png",
     "Screenshot 2024-06-28 at 2.23.52 PM.png",
     "Screenshot 2024-06-28 at 2.23.52 PM 1.png",
