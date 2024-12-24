@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/computer science/https.md",
+                "file": "2. Area/Dev/computer science/port.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "https"
+              "title": "port"
             }
           }
         ]
@@ -156,10 +156,10 @@
   "active": "8e1e87d1bdc013af",
   "lastOpenFiles": [
     "2. Area/Dev/computer science/http.md",
+    "2. Area/Dev/computer science/port.md",
     "2. Area/Dev/computer science/https.md",
     "1. Project/toy 🤖/blog.md",
     "2. Area/Dev/infra/kt cloud.md",
-    "2. Area/Dev/computer science/port.md",
     "5. Daily Report/2024/2024-12-24.md",
     "5. Daily Report/2024/12월 취?업/2024-12-23.md",
     "4. Archive/IT 업계의 발전동향에 대해 생각해보기.md",
