@@ -27,6 +27,7 @@ docker rm [id]
 docker pull [username]/[app-name]:[tag]
 ```
 
+
 ```
 docker run -d -p 8080:8080 seovida/blog:latest
 ```
