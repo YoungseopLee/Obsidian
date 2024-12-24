@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/infra/kt cloud.md",
+                "file": "1. Project/toy 🤖/blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kt cloud"
+              "title": "blog"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "active": "8e1e87d1bdc013af",
   "lastOpenFiles": [
+    "2. Area/Dev/infra/kt cloud.md",
     "2. Area/Dev/computer science/port.md",
     "5. Daily Report/2024/2024-12-24.md",
     "5. Daily Report/2024/12월 취?업/2024-12-23.md",
@@ -172,7 +173,6 @@
     "2. Area/Dev/model",
     "2. Area/Dev/infra/cloud.md",
     "2. Area/Dev/infra/IaC (Infrastructure as Code).md",
-    "2. Area/Dev/infra/kt cloud.md",
     "5. Daily Report/2024/12월 취?업/2024-12-19.md",
     "2. Area/Dev/Stack 📚/infra/docker",
     "2. Area/Dev/Stack 📚/Untitled",
