@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Dev/infra/kt cloud.md",
+                "file": "2. Area/Dev/language/swift/Swift 의 기능 및 디자인 살펴보기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kt cloud"
+              "title": "Swift 의 기능 및 디자인 살펴보기"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "active": "8e1e87d1bdc013af",
   "lastOpenFiles": [
+    "2. Area/Dev/infra/kt cloud.md",
     "2. Area/Dev/infra/IaC (Infrastructure as Code).md",
     "2. Area/Dev/infra/cloud.md",
     "3. Resource/Book/2024/부의 인문학.md",
@@ -167,7 +168,6 @@
     "2. Area/Dev/computer science/http.md",
     "2. Area/Dev/computer science/https.md",
     "1. Project/toy 🤖/blog.md",
-    "2. Area/Dev/infra/kt cloud.md",
     "5. Daily Report/2024/12월 취?업/2024-12-23.md",
     "2. Area/Dev/infra/docker/docker hub.md",
     "2. Area/Dev/infra/docker/token.md",
