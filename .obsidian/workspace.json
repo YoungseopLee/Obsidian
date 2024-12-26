@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.50390243530273
+    "width": 294.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -155,8 +156,9 @@
   },
   "active": "8e1e87d1bdc013af",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-12-26.md",
+    "2. Area/Dev/log, monitor.md",
     "2. Area/Dev/git/git actions.md",
+    "5. Daily Report/2024/2024-12-26.md",
     "2. Area/Dev/computer science/https.md",
     "2. Area/Dev/computer science/http.md",
     "4. Archive/정보처리기사 (2024-06-18).md",
@@ -183,7 +185,6 @@
     "2. Area/Dev/infra/kt cloud.md",
     "2. Area/Dev/framework/spring/spring basic.md",
     "2. Area/Dev/framework/spring/Spring Data JPA.md",
-    "2. Area/Dev/framework/spring/spring security & jwt.md",
     "2. Area/Dev/infra/docker",
     "2. Area/Dev/ai",
     "2. Area/Dev/Stack 📚/infra/docker",
