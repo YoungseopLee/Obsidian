@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/toy 🤖/wallpaper engine for mac.md",
+                "file": "5. Daily Report/2024/2024-12-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wallpaper engine for mac"
+              "title": "2024-12-26"
             }
           }
         ]
@@ -155,7 +155,13 @@
   },
   "active": "8e1e87d1bdc013af",
   "lastOpenFiles": [
-    "1. Project/toy 🤖/Digital Arts Shop.md",
+    "2. Area/Dev/infra/IaC (Infrastructure as Code).md",
+    "2. Area/Dev/infra/kt cloud.md",
+    "2. Area/Dev/infra/docker/docker hub.md",
+    "2. Area/Dev/infra/docker/cmd.md",
+    "1. Project/toy 🤖/personal blog.md",
+    "2. Area/Dev/infra/docker/token.md",
+    "1. Project/toy 🤖/Digital Arts Shop for artist.md",
     "1. Project/toy 🤖/wallpaper engine for mac.md",
     "1. Project/toy 🤖/metronome my own.md",
     "2. Area/Dev/language/swift/1. swift ui.md",
@@ -167,20 +173,14 @@
     "4. Archive/어떻게 살아야 하는가.md",
     "4. Archive/IT 업계의 발전동향에 대해 생각해보기.md",
     "2. Area/Dev/infra/cloud.md",
-    "2. Area/Dev/infra/IaC (Infrastructure as Code).md",
-    "2. Area/Dev/infra/kt cloud.md",
     "5. Daily Report/2024/2024-12-26.md",
-    "5. Daily Report/2024/2024-12-25.md",
+    "5. Daily Report/2024/12월 취?업/2024-12-25.md",
     "5. Daily Report/2024/12월 취?업/2024-12-24.md",
     "2. Area/Dev/computer science/port.md",
     "2. Area/Dev/computer science/http.md",
     "2. Area/Dev/computer science/https.md",
-    "1. Project/toy 🤖/blog.md",
     "5. Daily Report/2024/12월 취?업/2024-12-23.md",
-    "2. Area/Dev/infra/docker/docker hub.md",
-    "2. Area/Dev/infra/docker/token.md",
     "5. Daily Report/2024/2024 회고.md",
-    "5. Daily Report/2025/1월/0.목표.md",
     "2. Area/Dev/infra/docker",
     "2. Area/Dev/model",
     "2. Area/Dev/Stack 📚/infra/docker",
