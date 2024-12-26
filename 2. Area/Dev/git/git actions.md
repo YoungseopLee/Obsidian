@@ -11,33 +11,38 @@
 	 4. 본 예제에서는 직접 만든다.
 	 
 	 5. Dockerfile 내부는 다음과 같은데 
-	 6. 사용할 jdk 와 어디서 이미지를 복사할지가 기재되었다. 
+	 6. 사용할 jdk 와 어디서 이미지를 복사할지에 대한 경로가 작성되었다. 
 ```
 #dockerfile
 
-FROM openjdk:17-jdk-slim  
+FROM openjdk:17-jdk-slim # 사용한 언어가 java 이기 때문에 jdk 설정
   
-WORKDIR /app  
-COPY build/libs/*.jar app.jar  
-ENTRYPOINT ["java", "-jar", "app.jar"]
+WORKDIR /app # 루트 디렉토리
+COPY build/libs/*.jar app.jar # 해당경로에 있는 모든 .jar 파일을 COPY한다.  
+ENTRYPOINT ["java", "-jar", "app.jar"] # 
 ```
 	
 	
-	7. ci-cd.yml 에서 build 와 push, run 등 필요한 일련의 과정들을 반복한다. 
+	7. ci-cd.yml 에서 build 와 push, run 등 필요한 일련의 과정들을 위한 명령어 작성
+	8. dockerhub 의 USERNAME, PASSWORD
+	9. EC2 의 HOST,USER,PASSWORD 
+	10. 이 밖에도 api key 같은건 모두 프로젝트 내 github secrets 에서 관리한다. 
+	11. 
+	12. 
 ```
 name: Java CI & Docker  
-  
+
 on:  
   push:  
     branches: [ "main" ]  
-  
+	  
 jobs:  
   build-and-deploy:  
     runs-on: ubuntu-latest  
     steps:  
       # 1) 소스코드 체크아웃  
       - uses: actions/checkout@v4  
-  
+	  
       # 2) JDK 설정  
       - name: Set up JDK 17  
         uses: actions/setup-java@v4  
