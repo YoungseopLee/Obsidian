@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-12-26.md",
+                "file": "2. Area/Dev/infra/docker/token.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-26"
+              "title": "token"
             }
           }
         ]
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.50390243530273,
-    "collapsed": true
+    "width": 294.50390243530273
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -156,11 +155,17 @@
   },
   "active": "8e1e87d1bdc013af",
   "lastOpenFiles": [
+    "2. Area/Dev/infra/docker/cmd.md",
+    "2. Area/Dev/infra/docker/활용 (with. docker hub).md",
+    "2. Area/Dev/infra/cloud.md",
+    "2. Area/Dev/infra/docker/token.md",
+    "2. Area/Dev/language/swift/0. swift basic.md",
+    "2. Area/Dev/language/js/DOMContentListener.md",
+    "5. Daily Report/2024/2024-12-26.md",
     "1. Project/toy 🤖/pdf-creator (python).md",
     "1. Project/toy 🤖/personal blog.md",
     "1. Project/toy 🤖/wallpaper engine for mac.md",
     "2. Area/Dev/language/python.md",
-    "5. Daily Report/2024/2024-12-26.md",
     "5. Daily Report/2024/2024 회고.md",
     "4. Archive/어떻게 살아야 하는가.md",
     "4. Archive/정보처리기사 (2024-06-18).md",
@@ -169,19 +174,13 @@
     "4. Archive/IT 업계의 발전동향에 대해 생각해보기.md",
     "2. Area/Dev/infra/IaC (Infrastructure as Code).md",
     "2. Area/Dev/infra/kt cloud.md",
-    "2. Area/Dev/infra/docker/docker hub.md",
-    "2. Area/Dev/infra/docker/cmd.md",
-    "2. Area/Dev/infra/docker/token.md",
     "1. Project/toy 🤖/Digital Arts Shop for artist.md",
     "1. Project/toy 🤖/metronome my own.md",
     "2. Area/Dev/language/swift/1. swift ui.md",
-    "2. Area/Dev/language/swift/0. swift basic.md",
     "2. Area/Dev/language/swift/helloworld.md",
     "3. Resource/Book/2024/부의 인문학.md",
-    "2. Area/Dev/infra/cloud.md",
     "5. Daily Report/2024/12월 취?업/2024-12-25.md",
     "5. Daily Report/2024/12월 취?업/2024-12-24.md",
-    "2. Area/Dev/computer science/port.md",
     "2. Area/Dev/infra/docker",
     "2. Area/Dev/model",
     "2. Area/Dev/Stack 📚/infra/docker",
