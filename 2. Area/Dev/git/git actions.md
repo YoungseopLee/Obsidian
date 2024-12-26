@@ -6,9 +6,12 @@
 	하는 과정이 귀찮음. -> 일련의 과정에 대한 자동화 필요성을 느낌
 	 
 	 1. 프로젝트 루트에서 .github/workflows 디렉토리를 만들어준다. 
-	 2. 여기서 ci-cd 를 위한 yml 을 만들면 되는데
+	 2. 여기서 ci-cd 를 위한 yml 을 만들면 되는데 
+	 3. 프로젝트 repo-> actions 탭에서 프리셋을 활용해도 괜찮다.
+	 4. 본 예제에서는 직접 만든다.
 	 
-	.
+	 5. Dockerfile 내부는 다음과 같은데 
+	 6. 사용할 jdk 와 어디서 이미지를 복사할지가 기재되었다. 
 ```
 #dockerfile
 
@@ -19,8 +22,8 @@ COPY build/libs/*.jar app.jar
 ENTRYPOINT ["java", "-jar", "app.jar"]
 ```
 	
-	.
 	
+	7. ci-cd.yml 에서 build 와 push, run 등 필요한 일련의 과정들을 반복한다. 
 ```
 name: Java CI & Docker  
   
