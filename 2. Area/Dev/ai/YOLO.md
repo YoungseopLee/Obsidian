@@ -5,3 +5,6 @@
 pip install ultralytics 
 ```
 
+
+#ai
+#python

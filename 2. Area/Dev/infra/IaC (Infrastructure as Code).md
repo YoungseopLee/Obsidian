@@ -9,3 +9,4 @@ CDK 를 활용하려면? **Core Framework, Construct Library, CDK CLI** 와 같�
 	 CLI 는 터미널로 설정하는 방법인 것 같다. (cdk booktstrap, cdk init, cdk synth, cdk deploy) 
 
 
+#infra 
