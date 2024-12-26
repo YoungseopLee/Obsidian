@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archive/왜 생각한 대로 코드를 작성하기 어려운가?.md",
+                "file": "2. Area/Dev/infra/IaC (Infrastructure as Code).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "왜 생각한 대로 코드를 작성하기 어려운가?"
+              "title": "IaC (Infrastructure as Code)"
             }
           }
         ]
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.50390243530273,
-    "collapsed": true
+    "width": 294.50390243530273
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -156,17 +155,18 @@
   },
   "active": "8e1e87d1bdc013af",
   "lastOpenFiles": [
-    "2. Area/Dev/language/swift/Swift 의 기능 및 디자인 살펴보기.md",
-    "4. Archive/왜 생각한 대로 코드를 작성하기 어려운가?.md",
     "2. Area/Dev/infra/kt cloud.md",
+    "5. Daily Report/2024/2024-12-26.md",
+    "5. Daily Report/2024/2024-12-25.md",
+    "4. Archive/왜 생각한 대로 코드를 작성하기 어려운가?.md",
+    "2. Area/Dev/language/swift/Swift 의 기능 및 디자인 살펴보기.md",
     "2. Area/Dev/infra/IaC (Infrastructure as Code).md",
     "2. Area/Dev/infra/cloud.md",
     "3. Resource/Book/2024/부의 인문학.md",
     "4. Archive/정보처리기사 (2024-06-18).md",
     "4. Archive/2025년 (정희원, 송길영).md",
     "4. Archive/IT 업계의 발전동향에 대해 생각해보기.md",
-    "5. Daily Report/2024/2024-12-25.md",
-    "5. Daily Report/2024/2024-12-24.md",
+    "5. Daily Report/2024/12월 취?업/2024-12-24.md",
     "2. Area/Dev/computer science/port.md",
     "2. Area/Dev/computer science/http.md",
     "2. Area/Dev/computer science/https.md",
@@ -185,7 +185,6 @@
     "2. Area/Dev/Stack 📚/infra/docker",
     "2. Area/Dev/Stack 📚/Untitled",
     "1. Project/toy 🤖/wallpaper engine for mac.md",
-    "5. Daily Report/2024/2024-12-18.md",
     "3. Resource/Book/2025",
     "2. Area/Dev/Data Structure",
     "5. Daily Report/2024/12월 취?업",
