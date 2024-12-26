@@ -1,6 +1,6 @@
 
 ```
-// iam 계정 만들기
+// 첫번째 iam 계정 
 dldudtjqiam
 !Dldudtjqiam00
 ```

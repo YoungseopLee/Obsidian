@@ -27,8 +27,6 @@ ENTRYPOINT ["java", "-jar", "app.jar"] #
 	8. dockerhub 의 USERNAME, PASSWORD
 	9. EC2 의 HOST,USER,PASSWORD 
 	10. 이 밖에도 api key 같은건 모두 프로젝트 내 github secrets 에서 관리한다. 
-	11. 
-	12. 
 ```
 name: Java CI & Docker  
 
@@ -102,4 +100,4 @@ jobs:
 	.
 	
  
-![[Screenshot 2024-12-26 at 4.02.14 PM 3.png]]
+[[first success cicd.png]]
