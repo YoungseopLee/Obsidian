@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Report/2024/2024-12-26.md",
+                "file": "5. Daily Report/2024/2024-12-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-26"
+              "title": "2024-12-27"
             }
           }
         ]
@@ -155,12 +155,14 @@
   },
   "active": "2fb668c9d4e78f3d",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-12-27.md",
-    "2. Area/Dev/git/git actions.md",
-    "media/first success cicd.png",
+    "5. Daily Report/2025/1월/0.목표.md",
+    "media/images/first success cicd.png",
     "media/images/Screenshot 2024-12-26 at 4.02.14 PM 2.png",
+    "5. Daily Report/2024/2024 회고.md",
+    "5. Daily Report/2024/2024-12-27.md",
+    "5. Daily Report/2024/12월 취?업/2024-12-26.md",
+    "2. Area/Dev/git/git actions.md",
     "media/images",
-    "5. Daily Report/2024/2024-12-26.md",
     "2. Area/Dev/infra/let me explain.md",
     "2. Area/Dev/language/swift/0. swift basic.md",
     "2. Area/Dev/infra/kt cloud.md",
@@ -189,8 +191,6 @@
     "2. Area/Dev/ai/YOLO.md",
     "2. Area/Dev/language/swift/1. swift ui.md",
     "2. Area/Dev/language/js/error",
-    "2. Area/Dev/infra/docker/cmd.md",
-    "2. Area/Dev/infra/IaC (Infrastructure as Code).md",
     "2. Area/Dev/infra/docker",
     "2. Area/Dev/ai",
     "2. Area/Dev/Stack 📚/infra/docker",
