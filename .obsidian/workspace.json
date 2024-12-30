@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.50390243530273,
-    "collapsed": true
+    "width": 294.50390243530273
   },
   "right": {
     "id": "12dd32ab3d554250",
@@ -154,17 +153,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2fb668c9d4e78f3d",
+  "active": "3be74d1c134d03e3",
   "lastOpenFiles": [
-    "5. Daily Report/2024/2024-12-29.md",
+    "5. Daily Report/2025/1월/0.목표.md",
     "5. Daily Report/2024/2024-12-30.md",
+    "5. Daily Report/2024/2024 회고.md",
+    "4. Archive/왜 생각한 대로 코드를 작성하기 어려운가?.md",
+    "4. Archive/어떻게 살아야 하는가.md",
+    "2. Area/Dev/computer science/http.md",
+    "5. Daily Report/2024/2024-12-29.md",
+    "2. Area/Dev/computer science/csr, ssr.md",
     "5. Daily Report/2024/12월 취?업/2024-12-28.md",
     "5. Daily Report/2024/12월 취?업/Untitled.md",
     "5. Daily Report/2024/12월 취?업/2024-12-27.md",
-    "5. Daily Report/2025/1월/0.목표.md",
     "media/images/first success cicd.png",
     "media/images/Screenshot 2024-12-26 at 4.02.14 PM 2.png",
-    "5. Daily Report/2024/2024 회고.md",
     "5. Daily Report/2024/12월 취?업/2024-12-26.md",
     "2. Area/Dev/git/git actions.md",
     "media/images",
@@ -183,14 +186,10 @@
     "Screenshot 2024-12-26 at 4.02.14 PM 1.png",
     "2. Area/Dev/infra/docker/token.md",
     "2. Area/Dev/computer science/https.md",
-    "2. Area/Dev/computer science/http.md",
     "4. Archive/정보처리기사 (2024-06-18).md",
     "5. Daily Report/2024/12월 취?업/2024-12-25.md",
-    "2. Area/Dev/devops/cicd.md",
     "2. Area/Dev/devops",
-    "2. Area/Dev/git/cmd.md",
     "2. Area/Dev/git",
-    "2. Area/Dev/language/js/DOMContentListener.md",
     "2. Area/Dev/language/js/error",
     "2. Area/Dev/infra/docker",
     "2. Area/Dev/ai",
