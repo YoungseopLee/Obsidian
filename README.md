@@ -1,8 +1,8 @@
 <img src="https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
 
-본 문서는 PARA 를 기반으로 작성됩니다.
-PARA 는 행동 또는 목표 를 기준으로 정보를 관리하는 방법론을 의미합니다. 
-크게 4개의 카테고리로 나누어서 관리합니다. 
+<h3>본 문서는 PARA 를 기반으로 작성됩니다.</h3>
+<h3>PARA 는 행동 또는 목표 를 기준으로 정보를 관리하는 방법론을 의미합니다. </h3>
+<h3>크게 4개의 카테고리로 나누어서 관리합니다. </h3>
 
 	1. Project : 
 		목표와 데드라인이 명확한 정보들 ex) 시험, 취업 etc...
